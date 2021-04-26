@@ -1,0 +1,10 @@
+#!/data/data/com.termux/files/usr/bin/sh
+## This file is executed during VNC server
+## startup.
+
+# Launch x-session-manager
+startxfce4 &
+# Launch xhost service to run proot-distro apps
+xhost +localhost
+
+xhost +

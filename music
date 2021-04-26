@@ -1,0 +1,3 @@
+#!/bin/bash
+#este script reproducira musica en tu terminal 
+mpv -playlist ~/Music
