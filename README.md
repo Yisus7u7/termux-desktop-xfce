@@ -71,8 +71,28 @@ firefox
 ![libreoffice_load](./fotos/proot-libreoffice.png) 
 ![libreoffice_app](./fotos/proot-libreoffice2.png) 
 
-Espero que te guste este pequeño trabajo,
-No olvides dejar tu 🌟 y compartir :3
+# instalación 
+
+⚠ Solo en termux 
+
+cd $HOME
+
+pkg update && pkg upgrade 
+
+pkg install git 
+
+pkg install wget 
+
+git clone https://github.com/Yisus7u7/termux-desktop-xfce
+
+cd termux-desktop-xfce
+
+bash install-desktop-xfce.sh
+
+> luego de eso solo espere, el script hará su trabajo 
+
+`Espero que te guste este pequeño trabajo,
+No olvides dejar tu 🌟 y compartir :3`
 
 
 
