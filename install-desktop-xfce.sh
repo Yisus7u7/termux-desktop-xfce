@@ -26,7 +26,7 @@ pkg install -y x11-repo
 
 pkg install -y xfce4 xarchiver tigervnc geany gtk3 python-tkinter leafpad hexchat netsurf xfce4-terminal recordmydesktop feh mtpaint dosbox
 
-pkg install -y loqui vim-python vim-gtk neovim
+pkg install -y loqui vim-python vim-gtk neovim htop neofetch
 
 pkg install -y mpv mtpaint feh dosbox pulseaudio the-powder-toy htop galculator xorg-xhost
 
