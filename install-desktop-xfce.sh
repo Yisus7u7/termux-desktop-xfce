@@ -28,7 +28,7 @@ pkg install -y xfce4 xarchiver tigervnc geany gtk3 python-tkinter leafpad hexcha
 
 pkg install -y loqui vim-python vim-gtk neovim
 
-pkg install -y mpv mtpaint feh dosbox the-powder-toy htop galculator xorg-xhost
+pkg install -y mpv mtpaint feh dosbox pulseaudio the-powder-toy htop galculator xorg-xhost
 
 clear
 
@@ -51,6 +51,8 @@ mv music $PREFIX/bin/music
 clear
 
 echo "espere un momento...."
+
+cp -rf backgrounds $HOME
 
 cp -rf .icons $HOME
 
@@ -81,6 +83,12 @@ cd $HOME
 ln -s $HOME/storage/music Music 
 
 mkdir $HOME/Music
+
+cd $HOME/.icons
+
+bash install-papirus.sh 
+
+cd $HOME
 
 echo -e """\e[1;32menjoy!!
 To start the vnc server, use the command: vncserver or startdesktop to stop it, use the command: vncserver -kill: 1 Replace the: 1 with the port on which the vnc service is running\e[1m"""
