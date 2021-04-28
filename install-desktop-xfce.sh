@@ -54,13 +54,13 @@ echo "espere un momento...."
 
 cp -rf backgrounds $HOME
 
-cp -rf .icons $HOME
+cp -rf $HOME/termux-desktop-xfce/.icons $HOME
 
-cp -rf .themes $HOME
+cp -rf $HOME/termux-desktop-xfce/.themes $HOME
 
-cp -rf .vnc $HOME
+cp -rf $HOME/termux-desktop-xfce/.vnc $HOME
 
-cp -rf .config $HOME
+cp -rf $HOME/termux-desktop-xfce/.config $HOME
 
 mkdir $HOME/Desktop 
 
