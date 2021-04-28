@@ -91,6 +91,20 @@ bash install-desktop-xfce.sh
 
 > luego de eso solo espere, el script hará su trabajo 
 
+# Uso 
+
+usa el comando :
+
+startdesktop 
+
+O
+
+vncserver -listen tcp 
+
+Pará iniciar el servidor vnc, conectes a localhost:1
+O el puerto que haya indicado la terminal 
+
+
 `Espero que te guste este pequeño trabajo,
 No olvides dejar tu 🌟 y compartir :3`
 
