@@ -52,7 +52,7 @@ clear
 
 echo "espere un momento...."
 
-cp -rf backgrounds $HOME
+cp -rf $HOME/termux-desktop-xfce/backgrounds $HOME
 
 cp -rf $HOME/termux-desktop-xfce/.icons $HOME
 
