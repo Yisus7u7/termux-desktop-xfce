@@ -101,7 +101,7 @@ O
 
 vncserver -listen tcp 
 
-Pará iniciar el servidor vnc, conectes a localhost:1
+Pará iniciar el servidor vnc, conectese a localhost:1
 O el puerto que haya indicado la terminal 
 
 
