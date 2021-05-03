@@ -32,6 +32,7 @@ x11, no es una distribución proot
 `--visor de procesos y reproductor de música`
 
 ![task](./fotos/task.png)
+![music](./fotos/music.png)
 ![music_player](./fotos/play_music.png)
 
 `--navegue en la web, edite sus archivos con Gvim,
