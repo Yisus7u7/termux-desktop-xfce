@@ -29,25 +29,25 @@ x11, no es una distribución proot
 
 # Eche un vistazo a las utilidades preinstaladas
 
-`--visor de procesos y reproductor de música`
+## --visor de procesos y reproductor de música
 
 ![task](./fotos/task.png)
 ![music](./fotos/music1.png)
 ![music_player](./fotos/play_music.png)
 
-`--navegue en la web, edite sus archivos con Gvim,
-leafpad, y chatee en canales irc con hexchat`
+## --navegue en la web, edite sus archivos con Gvim,
+leafpad, y chatee en canales irc con hexchat
 
 ![image1](./fotos/web-and-mail.png) 
 ![image2](./fotos/chat_vim_text-editor.png) 
 
-`--programe con un buen autocompletado y resaltado
-de sintaxis con geany`
+## --programe con un buen autocompletado y resaltado
+de sintaxis con geany
 
 ![Geany](./fotos/geany.png)
 
-`--Juege juegos retro o ejecute windows 1, 2 o 3
-en el emulador dosbox`
+## --Juege juegos retro o ejecute windows 1, 2 o 3
+en el emulador dosbox
 
 ![xarchiver](./fotos/xarchiver.png)
 ![install-doom](./fotos/install_doom.png)
@@ -66,7 +66,7 @@ export DISPLAY=:1
 
 firefox 
 
-`puede ejecutar apps proot sin problemas`
+## puede ejecutar apps proot sin problemas
 
 ![firefox](./fotos/proot-firefox.png) 
 ![libreoffice_load](./fotos/proot-libreoffice.png) 
@@ -105,6 +105,10 @@ vncserver -listen tcp
 Pará iniciar el servidor vnc, conectese a localhost:1
 O el puerto que haya indicado la terminal 
 
+Cualquier error, pregunta o sujerencia reportala en :
+https://github.com/Yisus7u7/termux-desktop-xfce/issues
+
+## Actualizar 
 
 `Espero que te guste este pequeño trabajo,
 No olvides dejar tu 🌟 y compartir :3`
