@@ -1,6 +1,20 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
+## Requisitos 
+
+Android 7, 9, 9 o 10
+
+Termux : https://f-droid.org/en/packages/com.termux/
+
+1 GB de ram mínimo, 2 GB recomendado 
+
+1 GB de espacio 
+
+> Nota : el termux de la play store es desmantenido 
+y no resive actualizaciones, no lo uses, tiene 
+bugs, usa el del enlace que deje arriba 
+
 # Que es? 
 
 Esto es una configuración avanzada de termux x11, 
