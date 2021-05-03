@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Thu Apr 29 19:51:29 2021
+
+Apr 29 19:51:29 *	Connecting to chat.freenode.net (192.186.157.43:6697)
+Apr 29 19:51:30 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 29 19:51:30 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 29 19:51:30 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 29 19:51:30 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 29 19:51:30 *	* Subject: /CN=tepper.freenode.net
+Apr 29 19:51:30 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 29 19:51:30 *	* Certification info:
+Apr 29 19:51:30 *	  Subject:
+Apr 29 19:51:30 *	    CN=tepper.freenode.net
+Apr 29 19:51:30 *	  Issuer:
+Apr 29 19:51:30 *	    C=US
+Apr 29 19:51:30 *	    O=Let's Encrypt
+Apr 29 19:51:30 *	    CN=R3
+Apr 29 19:51:30 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 29 19:51:30 *	  Sign algorithm sha256WithRSAEncryption
+Apr 29 19:51:30 *	  Valid since Mar  8 05:42:15 2021 GM to Jun  6 05:42:15 2021 GM
+Apr 29 19:51:30 *	* Cipher info:
+Apr 29 19:51:30 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 29 19:51:30 *	Connected. Now logging in.

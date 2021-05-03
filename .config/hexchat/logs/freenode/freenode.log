@@ -1,0 +1,86 @@
+**** BEGIN LOGGING AT Thu Apr 29 19:51:31 2021
+
+Apr 29 19:51:31 *	*** Looking up your hostname...
+Apr 29 19:51:31 *	*** Checking Ident
+Apr 29 19:51:31 *	*** Couldn't look up your hostname
+Apr 29 19:51:34 *	*** No Ident response
+Apr 29 19:51:34 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 29 19:51:34 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Apr 29 19:51:35 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Thu Apr 29 19:51:35 2021
+
+**** BEGIN LOGGING AT Thu Apr 29 19:51:35 2021
+
+Apr 29 19:51:35 *	Welcome to the freenode Internet Relay Chat Network yisu
+Apr 29 19:51:35 *	Your host is tepper.freenode.net[192.186.157.43/6697], running version ircd-seven-1.1.9
+Apr 29 19:51:35 *	This server was created Sun Jul 12 2020 at 20:43:15 UTC
+Apr 29 19:51:35 *	tepper.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Apr 29 19:51:35 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Apr 29 19:51:35 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE KNOCK WHOX :are supported by this server
+Apr 29 19:51:35 *	CPRIVMSG CNOTICE SAFELIST ELIST=CTU MONITOR=100 :are supported by this server
+Apr 29 19:51:35 *	There are 106 users and 75760 invisible on 31 servers
+Apr 29 19:51:35 *	29 :IRC Operators online
+Apr 29 19:51:35 *	42 :unknown connection(s)
+Apr 29 19:51:35 *	40650 :channels formed
+Apr 29 19:51:35 *	I have 3123 clients and 1 servers
+Apr 29 19:51:35 *	3123 3956 :Current local users 3123, max 3956
+Apr 29 19:51:35 *	75866 83476 :Current global users 75866, max 83476
+Apr 29 19:51:35 *	Highest connection count: 3957 (3956 clients) (166049 connections received)
+Apr 29 19:51:35 *	- tepper.freenode.net Message of the Day - 
+Apr 29 19:51:35 *	- Welcome to tepper.freenode.net in Buffalo, NY.
+Apr 29 19:51:35 *	- Thanks to http://www.servermania.com/ for sponsoring
+Apr 29 19:51:35 *	- this server!
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- TEPPER, SHERI S. (1929-), an American science fiction,
+Apr 29 19:51:35 *	- horror and mystery novel author, behind more than thirty
+Apr 29 19:51:35 *	- books, many themed unapologetically eco-feminist. Her
+Apr 29 19:51:35 *	- writing career started composing children's stories, but
+Apr 29 19:51:35 *	- moved to adult fiction in 1982. With the 1991 novel
+Apr 29 19:51:35 *	- 'Beauty' she won the Locus award for Best Fantasy Novel.
+Apr 29 19:51:35 *	- Her other well-known works include 'Grass' (1989, nominated
+Apr 29 19:51:35 *	- for Hugo and Locus Awards in 1990) and 'Gate to Women's
+Apr 29 19:51:35 *	- Country' (1988).
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- Welcome to freenode - supporting the free and open source
+Apr 29 19:51:35 *	- software communities since 1998.
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- By connecting to freenode you indicate that you have read and
+Apr 29 19:51:35 *	- accept our policies and guidelines as set out on https://freenode.net
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- In the event that you observe behaviour that contravenes our policies,
+Apr 29 19:51:35 *	- please notify a volunteer staff member via private message, or send us an
+Apr 29 19:51:35 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Apr 29 19:51:35 *	- situation within a reasonable period of time, and we may request further
+Apr 29 19:51:35 *	- information or, as appropriate, involve other parties such as channel operators 
+Apr 29 19:51:35 *	- Group Contacts representing an on-topic group.
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- freenode runs an open proxy scanner.
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- If you are looking for assistance, you may be able to find a list of 
+Apr 29 19:51:35 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Apr 29 19:51:35 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Apr 29 19:51:35 *	- any of us at any time. Please note that freenode predominantly provides 
+Apr 29 19:51:35 *	- assistance via private message, and while we have a network channel the 
+Apr 29 19:51:35 *	- primary venue for support requests is via private message to a member 
+Apr 29 19:51:35 *	- of the volunteer staff team.
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- From time to time, volunteer staff may send server-wide notices relating to
+Apr 29 19:51:35 *	- the project, or the communities that we host. The majority of such notices
+Apr 29 19:51:35 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Apr 29 19:51:35 *	- do not miss them. Important messages relating to the freenode project, including
+Apr 29 19:51:35 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Apr 29 19:51:35 *	- global notices.
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- Representing an on-topic project? Don't forget to register, more information
+Apr 29 19:51:35 *	- can be found on the https://freenode.net website under "Group Registration".
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Apr 29 19:51:35 *	- network going for close to two decades.
+Apr 29 19:51:35 *	-  
+Apr 29 19:51:35 *	- Thank you for using freenode!
+Apr 29 19:51:35 *	End of /MOTD command.
+Apr 29 19:51:35 *	yisu sets mode +Z on yisu
+Apr 29 19:51:35 *	yisu sets mode +i on yisu
+Apr 29 19:51:35 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 29 19:51:35 *	Received a CTCP VERSION from freenode-connect

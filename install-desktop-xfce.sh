@@ -5,6 +5,15 @@ clear
 #this script will configure a graphical user interface 
 #(xfce4) in termux
 #creator: @Yisus7u7v
+
+echo -e """
+
+\e[1;33mTermux Desktop\e[1m 
+   \e[1;31mby \e[4;36mYisus7u7\e[4m \e[1m
+
+
+"""
+
 cd $HOME
 
 echo -e '\e[1;36m installing packages, it is necessary  \e[1m'
@@ -24,15 +33,59 @@ pkg update && pkg upgrade
 
 pkg install -y x11-repo 
 
-pkg install -y xfce4 xarchiver tigervnc geany gtk3 python-tkinter leafpad hexchat netsurf xfce4-terminal recordmydesktop feh mtpaint dosbox
+pkg install -y xfce4 
 
-pkg install -y loqui htop neofetch
+pkg install -y xfce4-taskmanager
+
+pkg install -y xfce4-whiskermenu-plugin
+
+pkg install -y xfce4-clipman-plugin
+
+pkg install -y xarchiver 
+
+pkg install -y tigervnc 
+
+pkg install -y geany 
+
+pkg install -y geany-plugins
+
+pkg install -y gtk3 gtk2 mtpaint
+
+pkg install -y leafpad hexchat 
+
+pkg install -y netsurf recordmydesktop 
+
+pkg install -y feh 
+
+pkg install -y dosbox
+
+pkg install -y xfce4-terminal
+
+pkg install -y python-tkinter 
+
+pkg install -y htop 
+
+pkg install -y neofetch
+
+pkg install -y loqui
 
 pkg install -y neovim 
 
 pkg install -y vim-gtk
 
-pkg install -y mpv mtpaint feh dosbox pulseaudio the-powder-toy htop galculator xorg-xhost
+pkg install -y the-powder-toy 
+
+pkg install -y galculator 
+
+pkg install -y xorg-xhost
+
+pkg install -y mpv 
+
+pkg install -y tumbler
+
+pkg install -y ristretto
+
+pkg install -y 
 
 clear
 
@@ -48,7 +101,7 @@ rm -rf $HOME/.icons
 
 rm -rf $HOME/.themes
 
-mv music $PREFIX/bin/music
+mv ./music $PREFIX/bin/music
 
 #installing dotfiles
 

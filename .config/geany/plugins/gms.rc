@@ -1,0 +1,12 @@
+# Shell
+${SHELL} 
+# Perl
+perl 
+# Python
+python 
+# Sed
+sed -f 
+# Awk
+awk -f 
+# User
+cat - 

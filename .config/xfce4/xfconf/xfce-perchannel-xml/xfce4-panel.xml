@@ -13,7 +13,7 @@
       <property name="size" type="uint" value="34"/>
       <property name="dark-mode" type="bool" value="true"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="1"/>
+        <value type="int" value="22"/>
         <value type="int" value="11"/>
         <value type="int" value="12"/>
         <value type="int" value="6"/>
@@ -42,22 +42,23 @@
         <value type="int" value="5"/>
         <value type="int" value="3"/>
         <value type="int" value="4"/>
+        <value type="int" value="24"/>
       </property>
       <property name="length" type="uint" value="100"/>
       <property name="icon-size" type="uint" value="34"/>
       <property name="enter-opacity" type="uint" value="100"/>
       <property name="leave-opacity" type="uint" value="100"/>
+      <property name="mode" type="uint" value="0"/>
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="string" value="applicationsmenu">
-      <property name="show-tooltips" type="bool" value="true"/>
-      <property name="show-button-title" type="bool" value="false"/>
-      <property name="button-icon" type="string" value="distributor-logo-android"/>
-    </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="gigolo"/>
+        <value type="string" value="geany"/>
+        <value type="string" value="hexchat"/>
+        <value type="string" value="task manager"/>
         <value type="string" value="thunar"/>
         <value type="string" value="loqui"/>
       </property>
@@ -161,6 +162,16 @@
     <property name="plugin-21" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="01619459553.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-22" type="string" value="whiskermenu"/>
+    <property name="plugin-24" type="string" value="xfce4-clipman-plugin"/>
+    <property name="clipman" type="empty">
+      <property name="settings" type="empty">
+        <property name="show-qr-code" type="bool" value="true"/>
+      </property>
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="false"/>
       </property>
     </property>
   </property>
