@@ -36,7 +36,7 @@ x11, no es una distribución proot
 ![music_player](./fotos/play_music.png)
 
 ### --navegue en la web, edite sus archivos con Gvim,
-leafpad, y chatee en canales irc con hexchat
+### leafpad, y chatee en canales irc con hexchat
 
 ![image1](./fotos/web-and-mail.png) 
 ![image2](./fotos/chat_vim_text-editor.png) 
@@ -46,7 +46,7 @@ leafpad, y chatee en canales irc con hexchat
 ![Geany](./fotos/geany.png)
 
 ### --Juege juegos retro o ejecute windows 1, 2 o 3
-en el emulador dosbox
+### en el emulador dosbox
 
 ![xarchiver](./fotos/xarchiver.png)
 ![install-doom](./fotos/install_doom.png)
