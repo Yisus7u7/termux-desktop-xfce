@@ -4,6 +4,28 @@ clear
 
 echo "Updating desktop, please wait"
 
+sleep 5
+
+#install new packages
+
+pkg install -y ristretto
+
+pkg install -y tumbler
+
+pkg install -y mpv
+
+pkg install -y python-tkinter 
+
+pkg install -y geany-plugins
+
+pkg install -y xfce4-taskmanager
+
+pkg install -y xfce4-whiskermenu-plugin
+
+pkg install -y xfce4-clipman-plugin
+
+#configuring update
+
 rm -rf $PREFIX/bin/music
 
 rm -rf $PREFIX/startdesktop 
