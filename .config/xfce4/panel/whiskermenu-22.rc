@@ -1,6 +1,6 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=firefox-esr.desktop,xfce4-taskmanager.desktop,leafpad.desktop,xfce-ui-settings.desktop,mtpaint.desktop,xfce4-web-browser.desktop,thunar.desktop,geany.desktop,ristretto.desktop,xfce4-about.desktop
-button-icon=distributor-logo-android
+recent=firefox-esr.desktop,xfce-session-settings.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xhydra.desktop,xfce4-taskmanager.desktop,geany.desktop,nvim.desktop,ristretto.desktop,leafpad.desktop
+button-icon=ibus-typing-booster
 button-single-row=false
 show-button-title=false
 show-button-icon=true

@@ -9,7 +9,7 @@
       <property name="position" type="string" value="p=6;x=0;y=0"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="42"/>
+      <property name="icon-size" type="uint" value="30"/>
       <property name="size" type="uint" value="34"/>
       <property name="dark-mode" type="bool" value="true"/>
       <property name="plugin-ids" type="array">
@@ -32,7 +32,7 @@
         <value type="int" value="18"/>
         <value type="int" value="19"/>
         <value type="int" value="20"/>
-        <value type="int" value="16"/>
+        <value type="int" value="1"/>
         <value type="int" value="8"/>
         <value type="int" value="7"/>
         <value type="int" value="10"/>
@@ -45,16 +45,18 @@
         <value type="int" value="24"/>
       </property>
       <property name="length" type="uint" value="100"/>
-      <property name="icon-size" type="uint" value="34"/>
+      <property name="icon-size" type="uint" value="32"/>
       <property name="enter-opacity" type="uint" value="100"/>
       <property name="leave-opacity" type="uint" value="100"/>
       <property name="mode" type="uint" value="0"/>
+      <property name="dark-mode" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="clipman"/>
         <value type="string" value="gigolo"/>
         <value type="string" value="geany"/>
         <value type="string" value="hexchat"/>
@@ -154,11 +156,6 @@
         <value type="string" value="01619458735.desktop"/>
       </property>
     </property>
-    <property name="plugin-16" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="01619458787.desktop"/>
-      </property>
-    </property>
     <property name="plugin-21" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="01619459553.desktop"/>
@@ -172,6 +169,11 @@
       </property>
       <property name="tweaks" type="empty">
         <property name="never-confirm-history-clear" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-1" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="01620167452.desktop"/>
       </property>
     </property>
   </property>
