@@ -1,0 +1,7 @@
+T 1619743925 19*	Now talking on 22#archlinux-es
+T 1619743926 22*	Topic for 22#archlinux-es is: Bienvenidos(as). Registrarse con Nickserv para hablar en el canal, más info con: /msg nickserv help register | Wiki: https://wiki.archlinux.org | Pegar texto/imágenes: http://bpaste.net http://imgur.com | ¿Ya leíste las noticias hoy? https://www.archlinux.org/news/ | systemd: https://2019.linux.conf.au/schedule/presentation/156/
+T 1619743926 22*	Topic for 22#archlinux-es set by 26mefistofeles (24Sat Jun  6 12:01:09 2020)
+T 1619743926 -18ChanServ-	[#ArchLinux-Es] Bienvenidos al canal de archlinux-es
+T 1619743934 20<yisu>30	hola
+T 1619744029 19<mefistofeles>	yisu: hey, qué tal ?
+T 1619744463 20<yisu>30	hola, bien

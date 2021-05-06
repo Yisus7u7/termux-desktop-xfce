@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-taskmanager" version="1.0">
+  <property name="interface" type="empty">
+    <property name="show-all-processes" type="bool" value="true"/>
+    <property name="full-command-line" type="bool" value="false"/>
+    <property name="process-tree" type="bool" value="true"/>
+    <property name="more-precision" type="bool" value="false"/>
+  </property>
+  <property name="show-status-icon" type="bool" value="false"/>
+  <property name="columns" type="empty">
+    <property name="column-priority" type="bool" value="false"/>
+    <property name="column-vsz" type="bool" value="false"/>
+    <property name="column-state" type="bool" value="false"/>
+    <property name="column-ppid" type="bool" value="false"/>
+    <property name="sort-type" type="uint" value="1"/>
+    <property name="sort-id" type="uint" value="0"/>
+  </property>
+  <property name="window-width" type="int" value="440"/>
+  <property name="window-height" type="int" value="600"/>
+</channel>

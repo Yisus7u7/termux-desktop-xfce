@@ -1,0 +1,7 @@
+**** BEGIN LOGGING AT Thu Apr 29 19:51:27 2021
+
+Apr 29 19:51:27 Lua version 1.3/5.3 loaded.
+Apr 29 19:51:27 AutoLoad failed for: /data/data/com.termux/files/usr/lib/hexchat/plugins/python.so
+Apr 29 19:51:27 dlopen failed: cannot locate symbol "PyExc_KeyError" referenced by "/data/data/com.termux/files/usr/lib/hexchat/plugins/python.so"...
+Apr 29 19:51:27 Checksum plugin loaded
+Apr 29 19:51:28 FiSHLiM plugin loaded
