@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=firefox-esr.desktop,xfce-session-settings.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xhydra.desktop,xfce4-taskmanager.desktop,geany.desktop,nvim.desktop,ristretto.desktop,leafpad.desktop
+recent=xfce4-file-manager.desktop,firefox-esr.desktop,mtpaint.desktop,xfce4-terminal-emulator.desktop,xfce-session-settings.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xhydra.desktop,xfce4-taskmanager.desktop,geany.desktop
 button-icon=ibus-typing-booster
 button-single-row=false
 show-button-title=false

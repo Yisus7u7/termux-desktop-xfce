@@ -10,3 +10,4 @@ text/html=xfce4-web-browser.desktop;
 application/json=leafpad.desktop;
 application/x-desktop=leafpad.desktop;
 image/png=ristretto.desktop;
+application/x-glade=leafpad.desktop;

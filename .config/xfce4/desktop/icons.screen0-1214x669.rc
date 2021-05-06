@@ -2,6 +2,6 @@
 4.10.3+=true
 
 [/data/data/com.termux/files/home]
-row=0
-col=11
+row=1
+col=0
 

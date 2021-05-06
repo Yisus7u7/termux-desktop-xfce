@@ -1,10 +1,10 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Music
-Comment=Play Music
+Name=Music Player
+Comment=Music manager for mpv
 Exec=music
-Icon=google-play-music-desktop-player
+Icon=com.github.artemanufrij.playmymusic
 Path=
 Terminal=true
 StartupNotify=false
