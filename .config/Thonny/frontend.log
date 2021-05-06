@@ -1,7 +1,0 @@
-INFO    thonny: Thonny version: 3.3.6
-WARNING thonny.plugins.mypy: MyPy: /data/data/com.termux/files/usr/lib/python3.9/site-packages is in the MYPYPATH. Please remove it.
-See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
-
-WARNING thonny.plugins.mypy: MyPy: /data/data/com.termux/files/usr/lib/python3.9/site-packages is in the MYPYPATH. Please remove it.
-See https://mypy.readthedocs.io/en/latest/running_mypy.html#how-mypy-handles-imports for more info
-
