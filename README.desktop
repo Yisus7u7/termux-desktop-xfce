@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=README
+Comment=About for termux-desktop-xfce
+Exec=/data/data/com.termux/files/home/termux-desktop-xfce/about.py
+Icon=help-about
+Path=
+Terminal=false
+StartupNotify=false

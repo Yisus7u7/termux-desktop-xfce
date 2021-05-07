@@ -137,6 +137,8 @@ mkdir $HOME/Pictures
 
 mkdir $HOME/Video
 
+cp -rf $HOME/termux-desktop-xfce/README.desktop $HOME/Desktop
+
 termux-setup-storage
 
 cd $HOME

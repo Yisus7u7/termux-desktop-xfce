@@ -1,11 +1,11 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/]
-row=0
-col=0
+[/data/data/com.termux/files/home/Desktop/README.desktop]
+row=1
+col=11
 
 [/data/data/com.termux/files/home]
-row=1
-col=0
+row=0
+col=11
 

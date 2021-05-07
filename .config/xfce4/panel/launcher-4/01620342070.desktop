@@ -2,9 +2,9 @@
 Version=1.0
 Type=Application
 Name=Music
-Comment=Play Music
+Comment=Music Manager for MPV
 Exec=music
-Icon=banshee-panel
+Icon=com.github.artemanufrij.playmymusic
 Path=
 Terminal=true
 StartupNotify=false

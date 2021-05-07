@@ -42,6 +42,8 @@ rm -rf $HOME/.config
 
 cp -rf $HOME/termux-desktop-xfce/.config $HOME
 
+cp -rf $HOME/termux-desktop-xfce/README.desktop $HOME/Desktop
+
 clear 
 
 echo "update finished, enjoy!"
