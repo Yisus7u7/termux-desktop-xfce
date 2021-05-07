@@ -35,8 +35,12 @@ Haciendo como resultado un escritorio altamente
 # capturas de pantalla :
 
 ![escritorio](./fotos/desktop.png)
-![escritorio2](./fotos/desktop2.png)
-![escritorio3](./fotos/desktop_settings.png)
+![escritorio](./fotos/desktop2.png)
+![escritorio](./fotos/desktop3.png)
+![escritorio](./fotos/desktop4.png)
+![escritorio](./fotos/desktop5.png)
+![escritorio](./fotos/desktop6.png)
+![escritorio](./fotos/desktop7.png)
 
 > Nota: Este escritorio se ejecuta bajo termux 
 x11, no es una distribución proot
