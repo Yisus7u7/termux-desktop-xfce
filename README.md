@@ -13,6 +13,14 @@ Termux : https://f-droid.org/en/packages/com.termux/
 
 1 GB de espacio 
 
+Un cliente vnc con el cual conectarse, 
+Puedes usar este :
+
+https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
+
+También puedes usar xserver-xsdl, bvnc pro y 
+kali-Kex
+
 > Nota : el termux de la play store es desmantenido 
 y no resive actualizaciones, no lo uses, tiene 
 bugs, usa el del enlace que deje arriba 
