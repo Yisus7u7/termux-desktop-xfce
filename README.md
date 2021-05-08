@@ -3,6 +3,8 @@ Set up a beautiful xfce desktop in termux
 
 ## Requisitos 
 
+`No Necesita permisos root`
+
 Android 7, 8, 9 o 10
 
 Termux : https://f-droid.org/en/packages/com.termux/
@@ -10,6 +12,14 @@ Termux : https://f-droid.org/en/packages/com.termux/
 1 GB de ram mínimo, 2 GB recomendado 
 
 1 GB de espacio 
+
+Un cliente vnc con el cual conectarse, 
+Puedes usar este :
+
+https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
+
+También puedes usar xserver-xsdl, bvnc pro y 
+kali-Kex
 
 > Nota : el termux de la play store es desmantenido 
 y no resive actualizaciones, no lo uses, tiene 
@@ -34,9 +44,15 @@ Haciendo como resultado un escritorio altamente
 
 # capturas de pantalla :
 
+> versión actual : 3.0.1 fresh update
+
 ![escritorio](./fotos/desktop.png)
-![escritorio2](./fotos/desktop2.png)
-![escritorio3](./fotos/desktop_settings.png)
+![escritorio](./fotos/desktop2.png)
+![escritorio](./fotos/desktop3.png)
+![escritorio](./fotos/desktop4.png)
+![escritorio](./fotos/desktop5.png)
+![escritorio](./fotos/desktop6.png)
+![escritorio](./fotos/desktop7.png)
 
 > Nota: Este escritorio se ejecuta bajo termux 
 x11, no es una distribución proot
@@ -149,7 +165,7 @@ bash update-desktop.sh
 `Espero que te guste este pequeño trabajo,
 No olvides dejar tu 🌟 y compartir :3`
 
-Puedes donar a este pequeño projecto en paypal
+Puedes donar a este pequeño proyecto en paypal
 
 https://www.paypal.me/JesusChapman 
 
