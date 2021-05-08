@@ -165,7 +165,7 @@ bash update-desktop.sh
 `Espero que te guste este pequeño trabajo,
 No olvides dejar tu 🌟 y compartir :3`
 
-Puedes donar a este pequeño projecto en paypal
+Puedes donar a este pequeño proyecto en paypal
 
 https://www.paypal.me/JesusChapman 
 
