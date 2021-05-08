@@ -44,6 +44,10 @@ cp -rf $HOME/termux-desktop-xfce/.config $HOME
 
 cp -rf $HOME/termux-desktop-xfce/README.desktop $HOME/Desktop
 
+cp -rf $HOME/termux-desktop-xfce/.icons/* $HOME/.icons/
+
+cp -rf $HOME/termux-desktop-xfce/.themes/* $HOME/.themes/
+
 clear 
 
 echo "update finished, enjoy!"
