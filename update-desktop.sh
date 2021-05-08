@@ -48,6 +48,8 @@ cp -rf $HOME/termux-desktop-xfce/.icons/* $HOME/.icons/
 
 cp -rf $HOME/termux-desktop-xfce/.themes/* $HOME/.themes/
 
+cp -rf $HOME/termux-desktop-xfce/backgrounds/* $HOME/backgrounds/
+
 clear 
 
 echo "update finished, enjoy!"
