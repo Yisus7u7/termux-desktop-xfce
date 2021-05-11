@@ -1,67 +1,21 @@
-#!/data/data/com.termux/files/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-#  music.py
-#  
-#  Copyright 2021 Yisus7u7 <jesuspixel5@gmail.com>
-#  
-#  This program is free software; you can redistribute it and/or modify
-#  it under the terms of the GNU General Public License as published by
-#  the Free Software Foundation; either version 2 of the License, or
-#  (at your option) any later version.
-#  
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#  GNU General Public License for more details.
-#  
-#  You should have received a copy of the GNU General Public License
-#  along with this program; if not, write to the Free Software
-#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
-#  MA 02110-1301, USA.
+#!/bin/bash
 
-import tkinter as Tk
-from tkinter import *
-import os
-from tkinter import messagebox, ttk
+#creador: Yisus7u7
+#este programa es para reproducir musica con zenity y mpv
 
-#configuracion
+patch=$(zenity --file-selection --directory --title "enter the location of your directory with music" $HOME)
 
-player = Tk()
-player.title("mpv Music Manager")
-player.geometry("280x180")
+zenity --question --text "You want to play music on $patch?"
 
-#funciones
+ans=$?
+if [ $ans -eq 0 ]
+then
+    mpv -playlist $patch
+else
+    echo "Cancel"
+    sleep 3 
+    exit
+    fi
 
-def play_music():
-	ruta = patch.get()
-	messagebox.showinfo(title="play_music", message=f"Music will be played on {ruta}")
-	player.destroy()
-	os.system(f"mpv -playlist {ruta}")
-	
-
-
-#contenido
-
-text=Label(player, text="Enter the location of your \"Music\" folder")
-
-text.grid()
-
-patch = ttk.Combobox(player)
-
-patch.grid(column=0 , row=1)
-
-#variables de ttk 
-
-location = ["~/Music", "~/storage/music", "/sdcard/Music"]
-patch["values"]=location
-
-
-play = Button(player, text="play", command=play_music)
-
-play.grid()
-
-
-player.mainloop()
 
 
