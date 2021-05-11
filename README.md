@@ -83,7 +83,7 @@ x11, no es una distribución proot
 ![doom menú](./fotos/playdoom-menu.png)
 ![play_doom](./fotos/play_doom.png)
 
-> pocas apps?, e echo una configuración para 
+> pocas apps?, he echo una configuración para 
 > ejecutar las apps de una distro proot en termux x11! 
 > Un ejemplo :
 
