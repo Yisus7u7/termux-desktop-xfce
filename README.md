@@ -1,6 +1,10 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
+README in English:
+
+https://github.com/Yisus7u7/termux-desktop-xfce/blob/main/README-en.md
+
 ## Requisitos 
 
 `No Necesita permisos root`
