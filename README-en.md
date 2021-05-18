@@ -89,7 +89,7 @@ firefox
 ![libreoffice_load](./fotos/proot-libreoffice.png) 
 ![libreoffice_app](./fotos/proot-libreoffice2.png) 
 
-# instalaci�?n 
+# instalation
 
 ?? Only in termux
 
