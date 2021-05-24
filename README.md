@@ -48,7 +48,7 @@ Haciendo como resultado un escritorio altamente
 
 # capturas de pantalla :
 
-> versión actual : 3.0.1 fresh update
+> versión actual : 3.0.4 fresh update
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
