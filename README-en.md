@@ -27,7 +27,7 @@ good looking, highly customizable and with very good optimization, this was insp
 
 # Screenshots:
 
-> current version: 3.0.1 latest
+> current version: 3.0.4 latest
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
