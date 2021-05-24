@@ -66,13 +66,19 @@ mkdir $HOME/Pictures
 mkdir $HOME/Video
 cp -rf $HOME/termux-desktop-xfce/README.desktop $HOME/Desktop
 termux-setup-storage
-cd $HOME
-ln -s $HOME/storage/music Music 
-mkdir $HOME/Music
-cd $HOME/.icons
-bash install-papirus.sh 
-cd $HOME
+ln -s $HOME/storage/music $HOME/Music 
+
+bash $HOME/.icons/install-papirus.sh
+
+read -p "\e[1; Do you want to compile extra plugins on-device??[y/n]" in
+
+if [[ $in -eq y]]
+then
+    bash compile-install.sh
+    echo -e """\e[1;32menjoy!!
+    To start the vnc server, use the command: vncserver or startdesktop to stop it, use the command: vncserver -kill: 1 Replace the: 1 with the port on which the vnc service is running\e[1m"""
+
+else
 echo -e """\e[1;32menjoy!!
 To start the vnc server, use the command: vncserver or startdesktop to stop it, use the command: vncserver -kill: 1 Replace the: 1 with the port on which the vnc service is running\e[1m"""
-
 exit
