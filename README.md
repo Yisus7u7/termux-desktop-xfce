@@ -91,6 +91,7 @@ x11, no es una distribución proot
 > ejecutar las apps de una distro proot en termux x11! 
 > Un ejemplo :
 
+```
 ./start-ubuntu.sh
 
 apt install firefox
@@ -98,6 +99,7 @@ apt install firefox
 export DISPLAY=:1
 
 firefox 
+```
 
 ### puede ejecutar apps proot sin problemas
 
@@ -109,19 +111,15 @@ firefox
 
 ⚠ Solo en termux 
 
+```
 cd $HOME
-
 pkg update && pkg upgrade 
-
 pkg install git 
-
 pkg install wget 
-
 git clone https://github.com/Yisus7u7/termux-desktop-xfce
-
 cd termux-desktop-xfce
-
 bash install-desktop-xfce.sh
+```
 
 > luego de eso solo espere, el script hará su trabajo 
 
@@ -129,11 +127,10 @@ bash install-desktop-xfce.sh
 
 usa el comando :
 
+```
 startdesktop 
-
-O
-
 vncserver -listen tcp 
+```
 
 Pará iniciar el servidor vnc, conectese a localhost:1
 O el puerto que haya indicado la terminal 
@@ -145,26 +142,26 @@ https://github.com/Yisus7u7/termux-desktop-xfce/issues
 
 Para actualizar solo es ejecutar :
 
+```
 cd ~/termux-desktop-xfce 
-
 git pull 
-
 bash update-desktop.sh 
+```
 
 Listo! 
 
-`nota: si la carpeta no existe o usted la eliminó 
+nota: si la carpeta no existe o usted la eliminó 
 para liberar espacio entonces debe seguir estos 
-pasos:`
+pasos:
+
 para actualizar solo ejecute :
 
+```
 cd $HOME
-
 git clone https://github.com/Yisus7u7/termux-desktop-xfce
-
 cd termux-desktop-xfce 
-
 bash update-desktop.sh 
+```
 
 `Espero que te guste este pequeño trabajo,
 No olvides dejar tu 🌟 y compartir :3`
