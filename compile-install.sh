@@ -1,8 +1,9 @@
 #Optional tools that will be compiled on-device
 
-pkg install perl
+pkg install perl python libexpat
 
 cpan install XML::Parser
+cpan install XML::LibXML
 
 wget https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz
 tar -xvf intltool-0.51.0.tar.gz
@@ -21,5 +22,7 @@ autoreconf -fi
 make
 make install
 cd ..
+
+pip install catfish
 
 exit
