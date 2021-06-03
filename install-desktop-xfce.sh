@@ -31,7 +31,7 @@ sleep 1
 
 pkg update && pkg upgrade
 pkg install -y x11-repo 
-pkg install -y xfce4 xfce4-taskmanager dosbox xfce4-terminal python-tkinter htop neofetch loqui vim-gtk the-powder-toy galculator xorg-xhost mpv ristretto xfce4-whiskermenu-plugin xfce4-clipman-plugin xarchiver tigervnc geany geany-plugins gtk3 gtk2 mtpaint leafpad hexchat netsurf recordmydesktop feh
+pkg install -y xfce4 xfce4-taskmanager dosbox xfce4-terminal python-tkinter htop neofetch loqui vim-gtk the-powder-toy galculator xorg-xhost mpv-x ristretto xfce4-whiskermenu-plugin xfce4-clipman-plugin xarchiver tigervnc geany geany-plugins gtk3 gtk2 mtpaint leafpad hexchat netsurf recordmydesktop feh audacious  
 clear
 
 echo -e '\e[1;31mSetting up vnc server ...\e[1m'
@@ -75,6 +75,7 @@ read -p "\e[1; Do you want to compile extra plugins on-device??[y/n]" in
 if [[ $in -eq y]]
 then
     bash compile-install.sh
+    clear
     echo -e """\e[1;32menjoy!!
     To start the vnc server, use the command: vncserver or startdesktop to stop it, use the command: vncserver -kill: 1 Replace the: 1 with the port on which the vnc service is running\e[1m"""
 
