@@ -129,6 +129,9 @@ usa el comando :
 
 ```
 startdesktop 
+
+O este:
+
 vncserver -listen tcp 
 ```
 
