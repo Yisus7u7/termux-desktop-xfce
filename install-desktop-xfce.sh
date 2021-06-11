@@ -72,7 +72,7 @@ bash $HOME/.icons/install-papirus.sh
 
 read -p "\e[1; Do you want to compile extra plugins on-device??[y/n]" in
 
-if [[ $in -eq y]]
+if [[ $in -eq y ]]
 then
     bash compile-install.sh
     clear
