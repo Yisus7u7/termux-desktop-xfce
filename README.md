@@ -100,7 +100,19 @@ export DISPLAY=:1
 
 firefox 
 ```
+> el audio de proot no funciona?
+> pruebe con estos comandos para arreglarlo
 
+(Estos comandos se ponen en proot)
+```
+apt install pulseaudio
+export PULSE\_SERVER=127.0.0.1
+pulseaudio --start
+```
+(Estos comandos se ponen en termux)
+```
+pactl load-module module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1
+```
 ### puede ejecutar apps proot sin problemas
 
 ![firefox](./fotos/proot-firefox.png) 
