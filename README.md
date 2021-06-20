@@ -48,14 +48,19 @@ Haciendo como resultado un escritorio altamente
 
 # capturas de pantalla :
 
-> versión actual : 3.0.4 fresh update
+> versión actual : 3.0.9 Nord update
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
 ![escritorio](./fotos/desktop3.png)
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
+
+> Nota: Las siguientes imágenes son de versiones antiguas del proyecto
+
 ![escritorio](./fotos/desktop7.png)
+
+
 
 > Nota: Este escritorio se ejecuta bajo termux 
 x11, no es una distribución proot
