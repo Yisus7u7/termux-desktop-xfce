@@ -53,7 +53,6 @@ Haciendo como resultado un escritorio altamente
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
 ![escritorio](./fotos/desktop3.png)
-![escritorio](./fotos/desktop4.png)
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
 ![escritorio](./fotos/desktop7.png)
