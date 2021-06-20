@@ -27,14 +27,18 @@ good looking, highly customizable and with very good optimization, this was insp
 
 # Screenshots:
 
-> current version: 3.0.4 latest
+> current version: 3.0.9 Nordic update 
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
 ![escritorio](./fotos/desktop3.png)
-![escritorio](./fotos/desktop4.png)
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
+
+
+> Note: The following images are from older versions of the project 
+ 
+
 ![escritorio](./fotos/desktop7.png)
 
 > Note: This desktop runs under termux natively, it is not a proot distribution
