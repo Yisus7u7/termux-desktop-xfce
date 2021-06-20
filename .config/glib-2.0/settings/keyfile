@@ -1,12 +1,14 @@
+[org/gtk/settings/color-chooser]
+selected-color=(true, 0.23921568627450981, 0.2196078431372549, 0.27450980392156865, 1.0)
+custom-colors=[(0.29841099999999998, 0.57657000000000003, 0.83666700000000005, 0.224832), (0.29841111111111113, 0.57657002237136457, 0.83666666666666667, 0.22483221476510068), (0.1803921568627451, 0.20392156862745098, 0.25098039215686274, 1.0)]
+
 [org/gtk/settings/file-chooser]
-window-position=(92, 35)
-window-size=(1096, 822)
 date-format='regular'
 location-mode='path-bar'
 show-hidden=false
 show-size-column=true
 show-type-column=true
-sidebar-width=166
+sidebar-width=174
 sort-column='name'
 sort-directories-first=false
 sort-order='ascending'

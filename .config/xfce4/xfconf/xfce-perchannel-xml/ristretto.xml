@@ -6,7 +6,4 @@
       <property name="position" type="string" value="left"/>
     </property>
   </property>
-  <property name="file" type="empty">
-    <property name="current-uri" type="string" value="file:///data/data/com.termux/files/home/storage/dcim/Facebook"/>
-  </property>
 </channel>

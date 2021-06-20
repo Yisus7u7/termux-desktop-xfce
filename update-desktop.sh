@@ -12,6 +12,8 @@ git pull
 clear
 
 #configuring update
+pkg install -y xfce4-* kvantum zenity mate-terminal mate-settings-daemon dbus-glib dconf
+clear
 
 echo "backing up files and adding new config files"
 
@@ -26,7 +28,7 @@ cp -rf $HOME/termux-desktop-xfce/README.desktop $HOME/Desktop
 cp -rf $HOME/termux-desktop-xfce/.icons/* $HOME/.icons/
 cp -rf $HOME/termux-desktop-xfce/.themes/* $HOME/.themes/
 cp -rf $HOME/termux-desktop-xfce/backgrounds/* $HOME/backgrounds/
-
+cp -rf $HOME/termux-desktop-xfce/stopdesktop $PREFIX/bin
 echo "update finished, enjoy!"
 
 exit

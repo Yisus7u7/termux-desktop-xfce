@@ -1,14 +1,9 @@
+[Added Associations]
+application/x-shellscript=leafpad.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+
 [Default Applications]
 x-scheme-handler/http=xfce4-web-browser.desktop
 x-scheme-handler/https=xfce4-web-browser.desktop
-x-scheme-handler/mailto=xfce4-mail-reader.desktop
 
-[Added Associations]
-x-scheme-handler/http=xfce4-web-browser.desktop;
-x-scheme-handler/https=xfce4-web-browser.desktop;
-x-scheme-handler/mailto=xfce4-mail-reader.desktop;
-text/plain=geany.desktop;leafpad.desktop;
-text/html=xfce4-web-browser.desktop;
-application/json=leafpad.desktop;
-application/x-desktop=leafpad.desktop;
-image/png=ristretto.desktop;
