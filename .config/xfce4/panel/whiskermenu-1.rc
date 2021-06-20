@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=geany.desktop,io.github.Hexchat.desktop,mtpaint.desktop,ristretto.desktop,xfce4-terminal.desktop,xfce4-mime-settings.desktop,xfce4-taskmanager.desktop,xfce4-web-browser.desktop,xfce-ui-settings.desktop,otter-browser.desktop
+recent=xfce-session-settings.desktop,geany.desktop,io.github.Hexchat.desktop,mtpaint.desktop,ristretto.desktop,xfce4-terminal.desktop,xfce4-mime-settings.desktop,xfce4-taskmanager.desktop,xfce4-web-browser.desktop,xfce-ui-settings.desktop
 button-icon=/data/data/com.termux/files/home/.icons/termux.png
 button-single-row=false
 show-button-title=false

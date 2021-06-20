@@ -40,7 +40,6 @@
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-17" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="01624144108.desktop"/>
