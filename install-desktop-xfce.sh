@@ -32,7 +32,7 @@ sleep 1
 pkg update && pkg upgrade
 pkg install -y x11-repo 
 pkg install -y xfce4 xfce4-taskmanager dosbox xfce4-terminal python-tkinter htop neofetch loqui vim-gtk the-powder-toy galculator xorg-xhost mpv-x ristretto xfce4-whiskermenu-plugin xfce4-clipman-plugin xarchiver tigervnc geany geany-plugins gtk3 gtk2 mtpaint leafpad hexchat netsurf recordmydesktop feh audacious  
-pkg install -y xfce4-* kvantum zenity mate-terminal mate-settings-daemon dbus-glib dconf
+pkg install -y xfce4-* kvantum zenity mate-terminal mate-settings-daemon dbus-glib dconf termux-api
 clear
 
 echo -e '\e[1;31mSetting up vnc server ...\e[1m'
