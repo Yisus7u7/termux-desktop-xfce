@@ -12,7 +12,7 @@ git pull
 clear
 
 #configuring update
-pkg install -y xfce4-* kvantum zenity mate-terminal mate-settings-daemon dbus-glib dconf
+pkg install -y xfce4-* kvantum zenity mate-terminal mate-settings-daemon dbus-glib dconf termux-api
 clear
 
 echo "backing up files and adding new config files"
