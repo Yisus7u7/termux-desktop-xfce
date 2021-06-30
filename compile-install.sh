@@ -23,6 +23,4 @@ make
 make install
 cd ..
 
-pip install catfish
-
 exit
