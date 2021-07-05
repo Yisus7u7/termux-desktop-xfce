@@ -9,7 +9,7 @@ https://github.com/Yisus7u7/termux-desktop-xfce/blob/main/README-en.md
 
 `No Necesita permisos root`
 
-Android 7, 8, 9 o 10
+Android 7, 8, 9, 10, 11 o 12
 
 Termux : https://f-droid.org/en/packages/com.termux/
 
