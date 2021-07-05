@@ -5,7 +5,7 @@ Set up a beautiful xfce desktop in termux
 
 No root permissions required
 
-Android 7, 8, 9 or 10
+Android 7, 8, 9, 10, 11 or 12
 
 Termux : https://f-droid.org/en/packages/com.termux/
 
