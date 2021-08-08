@@ -14,7 +14,7 @@ MORADO = Fore.MAGENTA
 BRILLO = Style.BRIGHT
 RESET = Style.RESET_ALL
 
-PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui mate-settings-daemon mate-terminal"
+PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui mate-settings-daemon mate-terminal audacious qt5-qtbase-gtk-platformtheme"
 
 DIRS = "~/Desktop ~/Documents ~/Downloads ~/Public ~/Videos ~/Templates ~/Pictures"
 
