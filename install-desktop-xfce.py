@@ -16,7 +16,7 @@ RESET = Style.RESET_ALL
 
 PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui mate-settings-daemon mate-terminal audacious qt5-qtbase-gtk-platformtheme"
 
-DIRS = "~/Desktop ~/Documents ~/Downloads ~/Public ~/Videos ~/Templates ~/Pictures"
+DIRS = "$HOME/Desktop $HOME/Documents $HOME/Downloads $HOME/Public $HOME/Videos $HOME/Templates $HOME/Pictures"
 
 def main():
 	system('pkg update -y')
@@ -28,25 +28,18 @@ def main():
 	
 	print(BRILLO + MORADO + "==> ", RESET + BRILLO + VERDE + "Clean unnecessary files from disk")
 	sleep(3)
-	system('rm -rf ~/.cache/*')
+	system('rm -rf $HOME/.cache/*')
 	system('apt clean && apt autoremove')
-	system('cd ~/termux-desktop-xfce')
 	
 	print(BRILLO + MORADO + "==> ", BRILLO + VERDE + "Setting directories for installation")
 	system('termux-setup-storage')
-	system('rm -rf ~/.config.old ~/.icons ~/.themes ~/.profile')
-	system('mv ~/.config ~/.config.old')
+	system('rm -rf $HOME/.config.old $HOME/.icons $HOME/.themes $HOME/.profile')
+	system('mv $HOME/.config $HOME/.config.old')
 	system('mkdir -p ' + DIRS)
-	system('ln -s ~/storage/music ~/Music')
+	system('ln -s $HOME/storage/music $HOME/Music')
 	
 	print(BRILLO + MORADO + "Installing data...")
-	system('cd $HOME')
-	system('curl -LO https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/4.0.2/data.tar.xz')
-	system('tar -xvf ./data.tar.xz')
-	system('rm ./data.tar.xz')
-	system('wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/kde/breeze-cursor-theme_5.20.5-4_all.deb')
-	system('apt install ./breeze-cursor-theme_5.20.5-4_all.deb')
-	system('rm ./breeze-cursor-theme_5.20.5-4_all.deb')
+	system('bash ./postins.sh')
 	system('rm $PREFIX/bin/startdesktop'), system('rm $PREFIX/bin/stopdesktop')
 	system('cp ~/termux-desktop-xfce/startdesktop $PREFIX/bin')
 	system('cp ~/termux-desktop-xfce/stopdesktop $PREFIX/bin')
