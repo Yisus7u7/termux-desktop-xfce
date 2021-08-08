@@ -118,11 +118,11 @@ firefox
 ```
 cd $HOME
 pkg update && pkg upgrade 
-pkg install git 
-pkg install wget 
+pkg install git wget python
+pip install colorama
 git clone https://github.com/Yisus7u7/termux-desktop-xfce
 cd termux-desktop-xfce
-bash install-desktop-xfce.sh
+python install-termux-desktop-xfce.py
 ```
 
 > luego de eso solo espere, el script hará su trabajo 
