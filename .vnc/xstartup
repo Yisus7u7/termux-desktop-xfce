@@ -1,7 +1,0 @@
-#!/bin/bash
-xrdb /data/data/com.termux/files/home/.Xresources
-export XDG_RUNTIME_DIR=$PREFIX/tmp
-export QT_QPA_PLATFORMTHEME=qt5ct
-startxfce4 &
-xhost +localhost
-xhost +
