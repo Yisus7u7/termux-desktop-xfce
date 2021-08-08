@@ -115,7 +115,7 @@ firefox
 
 ⚠ Solo en termux 
 
-```
+```bash
 cd $HOME
 pkg update && pkg upgrade 
 pkg install git wget python
