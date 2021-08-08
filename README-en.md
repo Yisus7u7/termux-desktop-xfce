@@ -84,16 +84,21 @@ firefox
 
 # Installation
 
-?? Only in termux
+! Only in termux
 
-```
+```bash
 cd $HOME
 pkg update && pkg upgrade 
-pkg install git 
-pkg install wget 
+pkg install git wget python
+pip install colorama
 git clone https://github.com/Yisus7u7/termux-desktop-xfce
 cd termux-desktop-xfce
-bash install-desktop-xfce.sh
+python install-desktop-xfce.py
+
+#optional, recomended
+
+bash get-qt5ct.sh
+
 ```
 
 After that just have a cup of coffee... the script will do its job 
