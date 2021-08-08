@@ -1,0 +1,20 @@
+**** BEGIN LOGGING AT Fri Jul 30 21:46:14 2021
+
+Jul 30 21:46:14 *	*** Looking up your ident...
+Jul 30 21:46:14 *	*** Looking up your hostname...
+Jul 30 21:46:14 *	*** You must use TLS/SSL and authenticate via SASL to connect to freenode please visit https://irc.com/login/sso in order to create an account. SASL Configuration: https://freenode.net/kb/answer/sasl - Webchat: https://webchat.freenode.net/
+Jul 30 21:46:14 *	*** Could not resolve your hostname: Domain not found; using your IP address (190.131.229.122) instead.
+Jul 30 21:46:14 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/relaymsg=/ echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname userhost-in-names 
+Jul 30 21:46:14 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join multi-prefix server-time userhost-in-names 
+Jul 30 21:46:14 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join multi-prefix server-time userhost-in-names
+Jul 30 21:46:18 *	*** Ident lookup timed out, using ~Yisus7u7 instead.
+Jul 30 21:46:18 *	Closing link: (~Yisus7u7@190.131.229.122) [You must use TLS/SSL and authenticate via SASL to connect to freenode please visit https://irc.com/login/sso in order to create an account. SASL Configuration: https://freenode.net/kb/answer/sasl - Webchat: https://webchat.freenode.net/]
+Jul 30 21:46:17 *	Disconnected (Remote host closed socket)
+Jul 30 21:46:27 Cycling to next server in freenode...
+Jul 30 21:46:27 *	Disconnected ()
+Jul 30 21:46:27 *	Looking up irc.freenode.net
+Jul 30 21:46:27 *	Connecting to chat.freenode.net (45.79.108.91:6697)
+Jul 30 21:46:28 FiSHLiM plugin unloaded
+Jul 30 21:46:28 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Jul 30 21:46:28 2021
+

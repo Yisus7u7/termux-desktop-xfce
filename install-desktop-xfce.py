@@ -40,8 +40,8 @@ def main():
 	system('ln -s ~/storage/music ~/Music')
 	
 	print(BRILLO + MORADO + "Installing data...")
-	system('cp ~/termux-desktop-xfce/data.tar.xz ~/data.tar.xz')
 	system('cd $HOME')
+	system('curl -LO https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/4.0.2/data.tar.xz')
 	system('tar -xvf ./data.tar.xz')
 	system('rm ./data.tar.xz')
 	system('wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/kde/breeze-cursor-theme_5.20.5-4_all.deb')

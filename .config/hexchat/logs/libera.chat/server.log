@@ -1,0 +1,19 @@
+**** BEGIN LOGGING AT Thu Aug  5 18:20:53 2021
+
+Aug 05 18:20:53 *	Looking up newserver
+**** BEGIN LOGGING AT Thu Aug  5 18:21:03 2021
+
+Aug 05 18:21:03 *	Looking up newserver
+Aug 05 18:21:03 *	Unknown host. Maybe you misspelled it?
+Aug 05 18:21:13 Cycling to next server in libera.chat...
+Aug 05 18:21:13 *	Disconnected ()
+**** ENDING LOGGING AT Thu Aug  5 18:21:13 2021
+
+**** BEGIN LOGGING AT Thu Aug  5 18:21:13 2021
+
+Aug 05 18:21:13 *	Looking up newserver
+Aug 05 18:21:13 *	Unknown host. Maybe you misspelled it?
+Aug 05 18:21:16 FiSHLiM plugin unloaded
+Aug 05 18:21:16 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Aug  5 18:21:16 2021
+

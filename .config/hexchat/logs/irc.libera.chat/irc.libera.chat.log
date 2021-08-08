@@ -1,0 +1,19 @@
+**** BEGIN LOGGING AT Thu Aug  5 18:26:18 2021
+
+Aug 05 18:26:18 Cycling to next server in irc.libera.chat...
+Aug 05 18:26:18 *	Disconnected ()
+Aug 05 18:26:18 *	Looking up irc.libera.chat
+Aug 05 18:26:18 *	Connecting to irc.libera.chat (64.86.243.186:6697)
+Aug 05 18:26:18 *	Connected. Now logging in.
+Aug 05 18:26:18 *	Disconnected (Connection reset by peer)
+Aug 05 18:26:28 Cycling to next server in irc.libera.chat...
+Aug 05 18:26:28 *	Disconnected ()
+Aug 05 18:26:28 *	Looking up irc.libera.chat
+Aug 05 18:26:28 *	Connecting to irc.libera.chat (64.86.243.186:6697)
+Aug 05 18:26:28 *	Connected. Now logging in.
+Aug 05 18:26:28 *	Disconnected (Connection reset by peer)
+Aug 05 18:26:29 Not connected. Try /server <host> [<port>]
+Aug 05 18:26:36 FiSHLiM plugin unloaded
+Aug 05 18:26:36 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Aug  5 18:26:36 2021
+

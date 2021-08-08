@@ -1,10 +1,7 @@
-#!/data/data/com.termux/files/usr/bin/sh
-## This file is executed during VNC server
-## startup.
-
-# Launch x-session-manager
+#!/bin/bash
+xrdb /data/data/com.termux/files/home/.Xresources
+export XDG_RUNTIME_DIR=$PREFIX/tmp
+export QT_QPA_PLATFORMTHEME=qt5ct
 startxfce4 &
-# Launch xhost service to run proot-distro apps
 xhost +localhost
-
 xhost +

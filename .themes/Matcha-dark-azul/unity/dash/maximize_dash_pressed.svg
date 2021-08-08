@@ -1,0 +1,19 @@
+<svg width="24" height="24" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g transform="translate(0 -1028.4)">
+  <g id="titlebutton-max-active-dark" transform="translate(-408 1218)">
+   <g transform="translate(-882 -432.64)">
+    <g transform="translate(-132)">
+     <g transform="translate(58)">
+      <circle cx="1376" cy="255" r="7" fill="#2eb398"/>
+     </g>
+    </g>
+    <g transform="translate(1294,247)" fill="#c0e3ff">
+     <g transform="translate(-81 -967)" fill="#c0e3ff">
+      <path d="m87.8 972h3.3817c0.4503 0 0.81623 0.36847 0.81876 0.8188v3.3817zm2.4074 6.0069h-3.3951c-0.45035 0-0.81876-0.36842-0.81876-0.81875v-3.3951l4.2138 4.2138" fill="#fff" fill-rule="evenodd"/>
+     </g>
+    </g>
+   </g>
+   <rect x="412" y="-185.64" width="16" height="16" fill="none"/>
+  </g>
+ </g>
+</svg>

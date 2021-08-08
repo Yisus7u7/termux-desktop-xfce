@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Fri Jul 30 21:46:12 2021
+
+Jul 30 21:46:12 *	Connecting to chat.freenode.net (172.104.27.105:6697)
+Jul 30 21:46:14 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 30 21:46:14 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 30 21:46:14 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Jul 30 21:46:14 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 30 21:46:14 *	* Subject: /CN=arc.freenode.net
+Jul 30 21:46:14 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Jul 30 21:46:14 *	* Certification info:
+Jul 30 21:46:14 *	  Subject:
+Jul 30 21:46:14 *	    CN=arc.freenode.net
+Jul 30 21:46:14 *	  Issuer:
+Jul 30 21:46:14 *	    C=US
+Jul 30 21:46:14 *	    O=Let's Encrypt
+Jul 30 21:46:14 *	    CN=R3
+Jul 30 21:46:14 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 21:46:14 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 21:46:14 *	  Valid since Jul 10 20:59:52 2021 GM to Oct  8 20:59:51 2021 GM
+Jul 30 21:46:14 *	* Cipher info:
+Jul 30 21:46:14 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 30 21:46:14 *	Connected. Now logging in.

@@ -27,5 +27,8 @@ MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
-TitleInitial=termux@android
+FontName=MesloLGS NF 10
+Encoding=UTF-8
+ColorBackground=#151517171c1c
+BackgroundDarkness=0.700000
 
