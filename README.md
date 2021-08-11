@@ -149,30 +149,6 @@ O el puerto que haya indicado la terminal
 Cualquier error, pregunta o sujerencia reportala en :
 https://github.com/Yisus7u7/termux-desktop-xfce/issues
 
-## Actualizar 
-
-Para actualizar solo es ejecutar :
-
-```
-cd ~/termux-desktop-xfce 
-git pull 
-bash update-desktop.sh 
-```
-
-Listo! 
-
-nota: si la carpeta no existe o usted la eliminó 
-para liberar espacio entonces debe seguir estos 
-pasos:
-
-para actualizar solo ejecute :
-
-```
-cd $HOME
-git clone https://github.com/Yisus7u7/termux-desktop-xfce
-cd termux-desktop-xfce 
-bash update-desktop.sh 
-```
 
 `Espero que te guste este pequeño trabajo,
 No olvides dejar tu 🌟 y compartir :3`
