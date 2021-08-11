@@ -56,7 +56,13 @@ Haciendo como resultado un escritorio altamente
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
 
+
+
+
 > Nota: Las siguientes imágenes son de versiones antiguas del proyecto
+
+
+
 
 ![escritorio](./fotos/desktop7.png)
 
