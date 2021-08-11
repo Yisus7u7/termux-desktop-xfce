@@ -14,13 +14,13 @@ MORADO = Fore.MAGENTA
 BRILLO = Style.BRIGHT
 RESET = Style.RESET_ALL
 
+ENABLE_X_REPO="pkg install -y x11-repo"
 PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui mate-settings-daemon mate-terminal audacious qt5-qtbase-gtk-platformtheme"
 DIRS = "$HOME/Desktop $HOME/Documents $HOME/Downloads $HOME/Public $HOME/Videos $HOME/Templates $HOME/Pictures"
 
 def main():
 	system('pkg update -y')
 	system('pkg upgrade -y')
-        system('pkg install -y x11-repo')
 	print(BRILLO + MORADO + "==> Termux-Desktop-xfce", RESET + AMARILLO + BRILLO + "by", RESET + AZULREY + BRILLO + "Yisus7u7")
 	print(BRILLO + AZUL + "Installing the desktop, push enter to continue")
 	input(BRILLO + VERDE + ">> ")
@@ -47,5 +47,6 @@ def main():
 	print(BRILLO + AZULREY + "To start the vnc server, use the command: vncserver or startdesktop to stop it, use the command: stopdesktop")
 	
 	
-	
+system('pkg update -y')
+system(ENABLE_X_REPO)	
 main()
