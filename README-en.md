@@ -119,24 +119,6 @@ To start the vnc server, connect to localhost: 1 Or the port indicated by the te
 Any error, question or suggestion, report it in:
 https://github.com/Yisus7u7/termux-desktop-xfce/issues
 
-## Update 
-
-To update just run
-
-```
-cd ~/termux-desktop-xfce 
-git pull 
-bash update-desktop.sh 
-```
-
-Note: if the folder does not exist or you deleted it to free up space then you should follow these steps:`
-
-```
-cd $HOME
-git clone https://github.com/Yisus7u7/termux-desktop-xfce
-cd termux-desktop-xfce 
-bash update-desktop.sh 
-```
 
 I hope you like this little work, don't forget to leave your 🌟 and share: 3 
 
