@@ -48,7 +48,7 @@ Haciendo como resultado un escritorio altamente
 
 # capturas de pantalla :
 
-> versión actual : 3.0.9 Nord update
+> versión actual : 4.0.2 Arc update
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
