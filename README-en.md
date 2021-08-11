@@ -27,7 +27,7 @@ good looking, highly customizable and with very good optimization, this was insp
 
 # Screenshots:
 
-> current version: 3.0.9 Nordic update 
+> current version: 4.0.2 Arc update 
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
@@ -93,9 +93,9 @@ pkg install git wget python
 pip install colorama
 git clone https://github.com/Yisus7u7/termux-desktop-xfce
 cd termux-desktop-xfce
-python install-desktop-xfce.py
+./install-desktop-xfce.py
 
-#optional, recomended
+# optional, recomended
 
 bash get-qt5ct.sh
 
