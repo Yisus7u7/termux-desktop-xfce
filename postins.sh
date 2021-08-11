@@ -8,4 +8,7 @@ rm data.tar.xz
 wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/kde/breeze-cursor-theme_5.20.5-4_all.deb
 apt install ./breeze-cursor-theme_5.20.5-4_all.deb
 rm breeze-cursor-theme_5.20.5-4_all.deb
+wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/arc/termux-arc-gtk-theme_20210412_all.deb
+apt install ./termux-arc-gtk-theme_20210412_all.deb
+rm termux-arc-gtk-theme_20210412_all.deb
 

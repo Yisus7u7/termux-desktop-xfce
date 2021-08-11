@@ -15,12 +15,13 @@ BRILLO = Style.BRIGHT
 RESET = Style.RESET_ALL
 
 PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui mate-settings-daemon mate-terminal audacious qt5-qtbase-gtk-platformtheme"
-
+ENABLE_TERMUX_X_REPO = "pkg install -y x11-repo"
 DIRS = "$HOME/Desktop $HOME/Documents $HOME/Downloads $HOME/Public $HOME/Videos $HOME/Templates $HOME/Pictures"
 
 def main():
 	system('pkg update -y')
 	system('pkg upgrade -y')
+        system(ENABLE_TERMUX_X_REPO)
 	print(BRILLO + MORADO + "==> Termux-Desktop-xfce", RESET + AMARILLO + BRILLO + "by", RESET + AZULREY + BRILLO + "Yisus7u7")
 	print(BRILLO + AZUL + "Installing the desktop, push enter to continue")
 	input(BRILLO + VERDE + ">> ")
