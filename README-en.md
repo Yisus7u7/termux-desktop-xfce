@@ -23,7 +23,7 @@ do not use it, it is deprecated, use the one from the link above
 # What is it?
 
 This is an advanced configuration of termux x11, rich in features to be highly functional, 
-good looking, highly customizable and with very good optimization, this was inspired by @WMCB-Tech 's (dotfiles)[https://github.com/WMCB-Tech/dotfiles] and from @adi1090x 's (termux-desktop)[https://github.com/adi1090x/termux-desktop] , resulting in a highly useful and optimized desktop. 
+good looking, highly customizable and with very good optimization, this was inspired by @WMCB-Tech 's [dotfiles](https://github.com/WMCB-Tech/dotfiles) and from @adi1090x 's [termux-desktop](https://github.com/adi1090x/termux-desktop) , resulting in a highly useful and optimized desktop. 
 
 # Screenshots:
 
