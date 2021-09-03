@@ -1,8 +1,0 @@
-# NetSurf cookies file.
-#
-# Lines starting with a '#' are comments, blank lines are ignored.
-#
-# All lines prior to "Version:	102" are discarded.
-#
-# Version	Domain	Domain from Set-Cookie	Path	Path from Set-Cookie	Secure	HTTP-Only	Expires	Last used	No destroy	Name	Value	Value was quoted	Scheme	URL	Comment
-Version:	102
