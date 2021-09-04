@@ -94,11 +94,6 @@ pip install colorama
 git clone https://github.com/Yisus7u7/termux-desktop-xfce
 cd termux-desktop-xfce
 ./install-desktop-xfce.py
-
-# optional, recomended
-
-pkg install qt5ct -y
-
 ```
 
 After that just have a cup of coffee... the script will do its job 
