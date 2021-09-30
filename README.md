@@ -126,7 +126,7 @@ cd $HOME
 pkg update && pkg upgrade 
 pkg install git wget python
 pip install colorama
-git clone https://github.com/Yisus7u7/termux-desktop-xfce
+git clone --depth 1 https://github.com/Yisus7u7/termux-desktop-xfce
 cd termux-desktop-xfce
 ./install-desktop-xfce.py
 ```
