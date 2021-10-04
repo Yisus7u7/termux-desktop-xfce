@@ -15,7 +15,7 @@ BRILLO = Style.BRIGHT
 RESET = Style.RESET_ALL
 
 ENABLE_X_REPO="pkg install -y x11-repo"
-PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins featherpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd xfce4-taskmanager loqui audacious qt5-qtbase-gtk-platformtheme kvantum qt5ct"
+PKGSMAIN = "wget mpv-x xfce4 geany thunar geany-plugins featherpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd xfce4-taskmanager loqui audacious qt5-qtbase-gtk-platformtheme kvantum qt5ct otter-browser"
 DIRS = "$HOME/Desktop $HOME/Documents $HOME/Downloads $HOME/Public $HOME/Videos $HOME/Templates $HOME/Pictures"
 
 def main():
