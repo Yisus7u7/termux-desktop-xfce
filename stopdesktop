@@ -1,3 +1,0 @@
-#!/bin/bash
-killall Xvnc
-echo "succesfull stop desktop"
