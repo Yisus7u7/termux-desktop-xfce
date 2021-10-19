@@ -128,7 +128,8 @@ pkg install git wget python
 pip install colorama
 git clone --depth 1 https://github.com/Yisus7u7/termux-desktop-xfce
 cd termux-desktop-xfce
-./install-desktop-xfce.py
+chmod +x *.sh *.py
+python3 ./install-desktop-xfce.py
 ```
 
 > luego de eso solo espere, el script hará su trabajo 
