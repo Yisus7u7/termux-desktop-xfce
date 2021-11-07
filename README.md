@@ -26,7 +26,7 @@ También puedes usar xserver-xsdl, bvnc pro y
 kali-Kex
 
 > Nota : el termux de la play store es desmantenido 
-y no resive actualizaciones, no lo uses, tiene 
+y no recibe actualizaciones, no lo uses. tiene 
 bugs, usa el del enlace que deje arriba 
 
 # Que es? 
