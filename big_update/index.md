@@ -1,8 +1,6 @@
 # Termux-desktop-xfce
 
-# Aviso de la próxima actualización: 
-
-# 5.0.1 (Modern Update)
+# Aviso de la próxima actualización: 5.0.1 (Modern Update)
 
 ![desktop](./desktop.png)
 
@@ -68,8 +66,8 @@ así como un conjunto de temas gtk/kvantum/iconos ligeros para todos los gustos.
 
 # Créditos
 
-- Temas de iconos, gtk, Qt creados por: ![@vinceliuice](https://github.com/vinceliuice)
-- Este actualización fue inspirada en el proyecto ![ApricityOS](https://apricityos.com/)
+- Temas de iconos, gtk, Qt creados por: [@vinceliuice](https://github.com/vinceliuice)
+- Este actualización fue inspirada en el proyecto [ApricityOS](https://apricityos.com/)
 - Configuración de geany por [@Wayn0](https://github.com/Wayn0/geany-dark-scheme)
 
 # Contribuir
