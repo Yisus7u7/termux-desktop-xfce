@@ -38,3 +38,19 @@ Disfrute de una interfáz limpia, con la mayoría de complementos y servicios de
 instalados, y el hermoso Cairo-Dock en el escritorio.
 
 ![xfce apps and Cairo dock](./applets.png)
+
+- **Nativo:**
+Todo se ejecuta de forma 100% nativa en su celular Android, sin emular componentes,
+cómo resultado tendrá un escritorio más rápido y con menos consumo de recursos
+
+![OwO](./native.png)
+
+- **Personalización:**
+
+Esta actualización vendrá con una gran cantidad de hermosos fondos de pantalla prenstalados,
+así como un conjunto de temas gtk/kvantum!iconos/ ligeros para todos los gustos.
+
+![OwO](./themes.png)
+
+> estas son solo algunas de sus muchísimas características y usos.
+
