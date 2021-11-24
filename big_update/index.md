@@ -48,9 +48,37 @@ cómo resultado tendrá un escritorio más rápido y con menos consumo de recurs
 - **Personalización:**
 
 Esta actualización vendrá con una gran cantidad de hermosos fondos de pantalla prenstalados,
-así como un conjunto de temas gtk/kvantum!iconos/ ligeros para todos los gustos.
+así como un conjunto de temas gtk/kvantum/iconos ligeros para todos los gustos.
 
 ![OwO](./themes.png)
 
 > estas son solo algunas de sus muchísimas características y usos.
+
+# Estado actual
+
+**Progreso en desarrollo, no terminado. vea:**
+
+- https://github.com/termux/x11-packages/pull/504
+- https://github.com/termux/x11-packages/pull/503
+- Falta agregar Cairo dock a los repositorios de termux
+
+# Créditos
+
+- Temas de iconos, gtk, Qt creados por: ![@vinceliuice](https://github.com/vinceliuice)
+- Este actualización fue inspirada en el proyecto ![ApricityOS](https://apricityos.com/)
+- Configuración de geany por [@Wayn0](https://github.com/Wayn0/geany-dark-scheme)
+
+# Contribuir
+
+Si usted desea contribuir con integración de apps mejoras gráficas, alguna utilidad
+creada por usted que quiera que se integre a este proyecto, contácteme :
+
+https://t.me/Yisus7u7v
+
+O si simplemente usted quiere donar, se lo agradecería mucho, esto me motivaria más
+para el desarrollado de este proyecto y se lo agradecería mucho.
+
+https://paypal.me/JesusChapman
+
+Si desea darme una sugerencia o hacerme preguntas también puede [Contactarme](https://t.me/Yisus7u7v)
 
