@@ -33,3 +33,8 @@ audacious o mpv-x (mpv-x puede reproducir videos de Youtube sin anuncios)
 
 ![Multimedia](media.png)
 
+- **Moderno:**
+Disfrute de una interfáz limpia, con la mayoría de complementos y servicios de xfce4
+instalados, y el hermoso Cairo-Dock en el escritorio.
+
+![xfce apps and Cairo dock](./applets.png)
