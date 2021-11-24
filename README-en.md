@@ -1,7 +1,8 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
-Attention! : notice of the next update:
+**Attention!:**
+notice of the next update:
 https://yisus7u7.github.io/termux-desktop-xfce/big_update/
 
 ## Requirements
