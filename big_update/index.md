@@ -1,5 +1,3 @@
-# Termux-desktop-xfce
-
 ## Aviso de la próxima actualización: 5.0.1 (Modern Update)
 
 ![desktop](./desktop.png)
