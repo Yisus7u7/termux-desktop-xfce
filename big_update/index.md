@@ -58,10 +58,10 @@ así como un conjunto de temas gtk/kvantum/iconos ligeros para todos los gustos.
 
 # Estado actual
 
-**Progreso en desarrollo, no terminado. vea:**
+**Progreso: en desarrollo, no terminado. vea:**
 
-- https://github.com/termux/x11-packages/pull/504
-- https://github.com/termux/x11-packages/pull/503
+- [https://github.com/termux/x11-packages/pull/504](https://github.com/termux/x11-packages/pull/504)
+- [https://github.com/termux/x11-packages/pull/503](https://github.com/termux/x11-packages/pull/503)
 - Falta agregar Cairo dock a los repositorios de termux
 
 # Créditos
@@ -72,10 +72,12 @@ así como un conjunto de temas gtk/kvantum/iconos ligeros para todos los gustos.
 
 # Contribuir
 
-Si usted desea contribuir con integración de apps mejoras gráficas, alguna utilidad
+Si usted desea contribuir con integración de apps,mejoras gráficas, alguna utilidad
 creada por usted que quiera que se integre a este proyecto, contácteme :
 
 [https://t.me/Yisus7u7v](https://t.me/Yisus7u7v)
+
+> No importa si la app/programa es o no es de usted.
 
 O si simplemente usted quiere donar, se lo agradecería mucho, esto me motivaria más
 para el desarrollado de este proyecto y se lo agradecería mucho.
