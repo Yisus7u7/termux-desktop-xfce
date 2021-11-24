@@ -1,4 +1,4 @@
-## Aviso de la próxima actualización: 5.0.1 (Modern Update)
+# Aviso de la próxima actualización: 5.0.1 (Modern Update)
 
 ![desktop](./desktop.png)
 
@@ -8,10 +8,11 @@
 - Más facilidad de uso
 - Cómodo para el usuario 
 - Menos cosas innecesarias
+- Totalmente útil para programadores y pentesters
 
 # Características
 
-- **IDE pre-configurado**
+- **IDE pre-configurado:**
 Use el mini entorno de desarrollo integrado geany para programar, compilar y 
 ejecutar diversos programas.
 
@@ -26,4 +27,9 @@ Y muchos otros más!
 
 ![User interface designers](./gui_designers.png)
 
+- **Multimedia:**
+Disfrute la reproducción de música y videos en una calidad muy buena, con parole,
+audacious o mpv-x (mpv-x puede reproducir videos de Youtube sin anuncios)
+
+![Multimedia](media.png)
 
