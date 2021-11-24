@@ -1,6 +1,6 @@
 # Termux-desktop-xfce
 
-# Aviso de la próxima actualización: 5.0.1 (Modern Update)
+## Aviso de la próxima actualización: 5.0.1 (Modern Update)
 
 ![desktop](./desktop.png)
 
@@ -75,12 +75,12 @@ así como un conjunto de temas gtk/kvantum/iconos ligeros para todos los gustos.
 Si usted desea contribuir con integración de apps mejoras gráficas, alguna utilidad
 creada por usted que quiera que se integre a este proyecto, contácteme :
 
-https://t.me/Yisus7u7v
+[https://t.me/Yisus7u7v](https://t.me/Yisus7u7v)
 
 O si simplemente usted quiere donar, se lo agradecería mucho, esto me motivaria más
 para el desarrollado de este proyecto y se lo agradecería mucho.
 
-https://paypal.me/JesusChapman
+[https://paypal.me/JesusChapman](https://paypal.me/JesusChapman)
 
 Si desea darme una sugerencia o hacerme preguntas también puede [Contactarme](https://t.me/Yisus7u7v)
 
