@@ -2,6 +2,8 @@
 
 ![desktop](./desktop.png)
 
+![desktop2](./extra.png)
+
 ### Que hay de nuevo en esta actualización¿?
 
 - Interfáz moderna, limpia, y útil.
