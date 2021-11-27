@@ -5,6 +5,9 @@ Set up a beautiful xfce desktop in termux
 Aviso de la próxima actualización:
 https://yisus7u7.github.io/termux-desktop-xfce/big_update/
 
+Vote por el tema que se usará en la siguiente actualización:
+https://github.com/Yisus7u7/termux-desktop-xfce/discussions/59
+
 README in English:
 
 https://github.com/Yisus7u7/termux-desktop-xfce/blob/main/README-en.md
