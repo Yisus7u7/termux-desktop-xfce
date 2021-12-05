@@ -154,7 +154,7 @@ elif cmd == '-unin' or cmd == '--uninstall' or cmd == '-u':
     else :
         print(Magenta+"\n  Process"+Green+" : CANCELLED")
 elif cmd == '--help' or cmd == '-h' :
-    print("\nUsage :  "+argv[0]+" option [option] \n\noptions : \n\n   -in or --install\t install desktop environment\n   -unin or --uninstall\t uninstall desktop completely\n   start\t         for start vncserver\n   stop\t                 for stop desktop by id\n   stopall\t         for kill all vncservers\n   -r or --remove\t remove themes and icon files\n\n   Example : \n \t e-tnv --install xfce 3.0.9")
+    print("\nUsage :  "+argv[0]+" option [option] \n\noptions : \n\n   -in or --install\t install desktop environment\n   -unin or --uninstall\t uninstall desktop completely\n   start\t         for start vncserver\n   stop\t                 for stop desktop by id\n   stopall\t         for kill all vncservers\n   -r or --remove\t remove themes and icon files\n   --list or -l    For list Available Versions \n\n   Example : \n \t e-tnv --install xfce 3.0.9")
 
 elif cmd == '--list' or cmd == '-l':
     print(Magenta+" \n"+Green+" Versions : \n\t"+Magenta+"xfce"+Green+" [ 3.0.1 ] \n\t"+Magenta+"xfce"+Green+" [ 3.0.4 ] \n\t"+Magenta+"xfce"+Green+" [ 3.0.9 ] \n\t"+Magenta+"xfce"+Green+" [ 4.0.2 ] "+Yellow+"[ Default ]\n\n\t"+Magenta+"lxqt"+Green+" [ 1.0.4 ] \n\t"+Magenta+"lxqt"+Green+" [ 2.0.1 ] \n\t"+Magenta+"lxqt"+Green+" [ 2.1.3 ]"+Yellow+"[ Default ] ")
