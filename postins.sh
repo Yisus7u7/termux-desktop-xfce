@@ -14,6 +14,8 @@ rm termux-arc-gtk-theme_20210412_all.deb
 rm ~/.vnc/*.pid
 rm ~/.vnc/*.log
 rm ~/.vnc/passwd 
-chmod +x ~/.vnc/xstartup 
+chmod +x ~/.vnc/xstartup
+chmod +x termux-desktop-xfce/main.py
+mv termux-desktop-xfce/main.py $PREFIX/bin/e-tnv
 
 
