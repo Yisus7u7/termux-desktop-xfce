@@ -1,0 +1,26 @@
+Codename: termux-desktop-xfce
+Version: 1
+Architectures: all
+Description: desktop-xfce repository
+Suite: desktop-xfce
+Date: Fri, 10 Dec 2021 01:38:32 UTC
+MD5Sum:
+ 1e1dc63e03ab83f4309f4fa42ad78d79 1682 extras/binary-all/Packages
+ db7b06756cc13af45cc524a2b68481e5 1020 extras/binary-all/Packages.xz
+ edd425ed26544d2d5f813ad3d1102bd5 8917418 extras/Contents-all
+ 42914ad1b95ac0f8e1656351dd187de7 293844 extras/Contents-all.xz
+SHA1:
+ 7f18d77b67f554030212760ccb1c9eefb80f270b 1682 extras/binary-all/Packages
+ 8f1b438478c94c29158bb8b4ce0e84aba20a6a3f 1020 extras/binary-all/Packages.xz
+ 9d9dc452ab8ca9663a73685eef722879527ef5f9 8917418 extras/Contents-all
+ 3543a72d9ba06172648cb5d32f22b49e971fc4b6 293844 extras/Contents-all.xz
+SHA256:
+ fff0eea77fd04b987711cc9d7aa24b30918e2832060371d9870c8adae2050aef 1682 extras/binary-all/Packages
+ f0c3e23fe68706bb1c95c40c65979bc8cc91e44c9a21b3acb4a3988d13239839 1020 extras/binary-all/Packages.xz
+ f728b1c38fc069333acead2a9e6acfedfee0020f806457ffb0fa249b77ec2637 8917418 extras/Contents-all
+ d3b114dff3a27b1f77bcfe9efbc977692d8bc5cd48409591b601230502eb67ce 293844 extras/Contents-all.xz
+SHA512:
+ 9ec0f4eb3df17b9a1438297ebe94a874fc486a3f6bb43172458776b2816537739c4f5edb3bc2124b168626c457fa5ecbed52f6475379e3924452f56690efa441 1682 extras/binary-all/Packages
+ c25a350ac391e26ac050aa4090c66521ce96c830ed7ccc67671415a6d2d3cde4efb2ff8c776336d540783dec144169b125f7878b3fd0ee6c91375253550ed4d8 1020 extras/binary-all/Packages.xz
+ fd17ac32abfa6d977cfacb794482af0f5a7bbf8ae213153b13d2892e6a9e84b17379d68e816f385b3e147aa20d11df3b176c201e615f7ca067060231ff07f720 8917418 extras/Contents-all
+ 2c850152df2849142be26fb30ad26e50ce550a2ab0959dad04777df741f73c46303e1fad2de3e4e81881e1307a4f8b8196b3b8d0b919c0f40f80250bc540a1dc 293844 extras/Contents-all.xz

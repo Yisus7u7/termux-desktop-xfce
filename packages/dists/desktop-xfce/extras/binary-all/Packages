@@ -1,0 +1,30 @@
+Package: termux-desktop-xfce
+Version: 5.0.3
+Architecture: all
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Installed-Size: 82000
+Depends: xfce4, xfce4-goodies, qt5ct, gtk2-engines-murrine, uget, audacious, hexchat, geany, geany-plugins, xorg-xhost, xorg-xprop, neofetch, zenity, galculator, pinentry-gtk, mtpaint, qt5-qtbase-gtk-platformtheme, bat, pavucontrol-qt, termux-api
+Homepage: https://github.com/Yisus7u7/termux-desktop-xfce
+Description: A Meta-package and data, themes, icons and wallpapers for termux-desktop-xfce
+Filename: dists/desktop-xfce/extras/binary-all/termux-desktop-xfce_5.0.3_all.deb
+Size: 8854448
+MD5Sum: 8133b0486c0fa6ac70b3e366d7f15c4e
+SHA1: c2c343960a2c8bc1d5c449d1d328b1e23d967766
+SHA256: c632e3312343d9bd17fc5bd19aba1c2cbcb8c912402204d713ef32fb31565a1b
+SHA512: 93794c81b896f75b44bf1a48e49513a4002dd865ef567af431d584158fc36fc2cf962b047503dd5367abe0cd5f24f7842f912019c50197e142c27daf9972b970
+
+Package: ttf-microsoft-cascadia
+Version: 4.0.2
+Architecture: all
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Installed-Size: 4430
+Depends: ttf-dejavu
+Homepage: https://github.com/microsoft/cascadia-code
+Description: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+Filename: dists/desktop-xfce/extras/binary-all/ttf-microsoft-cascadia_4.0.2.all.deb
+Size: 361784
+MD5Sum: f73fe2f433b1cd7a312d45091adb2888
+SHA1: 8cfdfb0735baaae60a03547566ecd5ed1746c25e
+SHA256: e84549090082d3dc931ab1e4a53699173ed617a5ee366fdcb161f99c4fafdade
+SHA512: 0dbc3f8821cbc7fb3c8c87a0d710c6a7df85a3c98904434a90dd494e61b900dcedda0f1d0e521a5e8ca0d5109579da3c5516ba01f433e20c4953133b64647e41
+
