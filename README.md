@@ -1,13 +1,6 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
-**¡Atención!:**
-Aviso de la próxima actualización:
-https://yisus7u7.github.io/termux-desktop-xfce/big_update/
-
-Vote por el tema que se usará en la siguiente actualización:
-https://github.com/Yisus7u7/termux-desktop-xfce/discussions/59
-
 README in English:
 
 https://github.com/Yisus7u7/termux-desktop-xfce/blob/main/README-en.md
@@ -44,7 +37,7 @@ con un aspecto atractivo, altamente personalizable
 y con una optimización muy buena, esto fue 
 inspirado en :
 
-https://github.com/WMCB-Tech/dotfiles
+https://manjaro.org
 
 Y
 
@@ -55,7 +48,7 @@ Haciendo como resultado un escritorio altamente
 
 # capturas de pantalla :
 
-> versión actual : 4.0.2 Arc update
+> versión actual : 5.0.3 update
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)

@@ -1,14 +1,6 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
-**Attention!:**
-notice of the next update:
-https://yisus7u7.github.io/termux-desktop-xfce/big_update/
-
-vote for the theme to be used in the next update:
-https://github.com/Yisus7u7/termux-desktop-xfce/discussions/59
-
-
 ## Requirements
 
 No root permissions required
@@ -35,7 +27,7 @@ good looking, highly customizable and with very good optimization, this was insp
 
 # Screenshots:
 
-> current version: 4.0.2 Arc update 
+> current version: 5.0.3 update 
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
