@@ -59,7 +59,7 @@ Haciendo como resultado un escritorio altamente
 
 ## Temas
 
-Aparte de las capturas de pantalla anteriores, hay muchoz
+Aparte de las capturas de pantalla anteriores, hay muchos
 más temas que usted podrá cambiar desde ajustes, también
 otros fondos de pantalla
 
