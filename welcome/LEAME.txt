@@ -1,0 +1,100 @@
+[Español]
+Hola!, espero que os guste este proyecto.
+se llevó 2 meses de fuerte desarrollo traer esta 
+esta actualización, espero que la disfrustes y compartas 
+con tus amigos, si llegas a copiar este proyecto, no 
+olvides dejar créditos, costó mucho trabajo lograr estos
+diseños.
+
+| Descripción
+
+En el icono de android que vez abajo en el panel, ese es
+el menú, presionalo para abrirlo, luego verás unos iconos,
+son unas cuantas apps que anclé al panel, entre ellas la
+terminal de xfce4, editor de texto, reproductor de videos,
+ajustes y otras cosas.
+
+luego de verás el menu de apps, con el podrás gestionar las
+apps que tengas abiertas.
+
+más adelante verás 2 cuadros, y uno de ellos es verde, con 
+eso podrás cambiar de escritorio y gestionar tus espacios 
+de trabajo.
+
+luego hay algunas utilidades, entre ellas un botón para 
+minimixar todas las ventanas abiertas, un gestor de 
+portapapeles, el centro de notificaciones, ajustes de sonido,
+estado de tu conexión a internet (para ver detalles necesitas
+tener la app termux-api instalada). También verás el reloj
+y los botones para cerrar el escritorio.
+
+| Temas
+
+En ajustes de xfwm4, appareance, y mouse and touch pad 
+podrás cambiar temas del cursor, iconos, gtk, Qt, y otras
+cosas más
+
+| Pantalla completa
+
+Para tener el escritorio pantalla completa, ve a :
+
+Settings>display
+
+Y cambia la resolución por la de tu telefono, puedes usar 
+la app "cpu-z" en la play store para saber tu resolución.
+
+esto no es necesario en termux Wayland.
+
+| Para desarrolladores
+
+El uso de este proyecto es libre, no hay limitaciones, puede 
+hacer videos, capturas de pantalla, personalizarlo, etc...
+
+Pero si usted desea copiar este proyecto, concidere dejar 
+créditos.
+
+| Utilidades
+
+Son infinitas, programar apps de pc, jugar, programar,
+hackear, el limite es tu imaginación.
+
+| Créditos
+
+- Manjaro (manjaro.org)
+
+Manjaro inspiró esta interfáz y dos fondos de pantalla son 
+basados en los de ellos, también los temas de las apps Qt
+(kvantum) son de ellos.
+
+- vinceliuice (https://github.com/vinceliuice)
+
+Diseñador de estos temas, gtk y de iconos.
+
+- Yisus7u7 (https://github.com/Yisus7u7)
+
+Diseñador de la interfáz, fondos, y creador del tema 
+android-green (gtk) y android-dark (geany colorscheme),
+también responsable del paquete xfce4-goodies y otros 
+componentes y apps disponibles ahora en termux x11.
+
+- xfce (xfce.org)
+
+Su escritorio da la posibilidad de la existencia de este 
+proyecto
+
+- Termux (termux.org)
+
+Diseñadores de esta grandiosa terminal para android.
+
+| Soporte
+
+- Reporte bugs aquí: 
+https://github.com/Yisus7u7/termux-desktop-xfce/issues
+
+- Mi contscto de telegram
+https://t.me/Yisus7u7v
+
+- Si desea donar, se agradece bastante.
+(Paypal) https://paypal.me/JesusChapman
+
+Comparte este proyecto y disfruta de el :3
