@@ -53,6 +53,7 @@ termux-setup-storage
 ln -s $HOME/storage/music Music 
 
 cd $HOME/Desktop
+rm LEAME.txt README.txt
 wget https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/welcome/LEAME.txt
 wget https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/welcome/README.txt
 cd $HOME
