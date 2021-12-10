@@ -34,6 +34,16 @@ good looking, highly customizable and with very good optimization, this was insp
 ![escritorio](./fotos/desktop3.png)
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
+![escritorio](./fotos/chat_and_youtube.png)
+
+# Themes
+
+Aside from the above screenshots, there are many
+more themes you can change from settings, too
+other wallpapers
+
+![graphite](./fotos/theme1)
+![Colliod](./fotos/theme2)
 
 ### Less apps ?, I have made a configuration to run the apps of a proot distro in termux native desktop. An example:
 
