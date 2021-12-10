@@ -55,7 +55,7 @@ Haciendo como resultado un escritorio altamente
 ![escritorio](./fotos/desktop3.png)
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
-
+![escritorio](./fotos/chat_and_youtube.png)
 
 ## Temas
 
@@ -63,8 +63,8 @@ Aparte de las capturas de pantalla anteriores, hay muchoz
 más temas que usted podrá cambiar desde ajustes, también
 otros fondos de pantalla
 
-![graphite](./fotos/theme1)
-![Colliod](./fotos/theme2)
+![graphite](./fotos/theme1.png)
+![Colliod](./fotos/theme2.png)
 
 > pocas apps?, he echo una configuración para 
 > ejecutar las apps de una distro proot en termux x11! 
