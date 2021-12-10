@@ -35,38 +35,6 @@ good looking, highly customizable and with very good optimization, this was insp
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
 
-
-> Note: The following images are from older versions of the project 
- 
-
-![escritorio](./fotos/desktop7.png)
-
-> Note: This desktop runs under termux natively, it is not a proot distribution
-
-# Take a look at the pre-installed utilities
-
-### Task Manager and music player
-
-![task](./fotos/task.png)
-![music](./fotos/music1.png)
-![music_player](./fotos/play_music.png)
-
-### Surf the web, edit your files with Gvim, leafpad, and chat on irc channels with hexchat
-
-![image1](./fotos/web-and-mail.png) 
-![image2](./fotos/chat_vim_text-editor.png) 
-
-### Write code with autocompletion and syntax highlighting with geany
-
-![Geany](./fotos/geany.png)
-
-### Play retro games or run windows 1, 2 or 3 on dosbox emulator
-
-![xarchiver](./fotos/xarchiver.png)
-![install-doom](./fotos/install_doom.png)
-![doom men�?](./fotos/playdoom-menu.png)
-![play_doom](./fotos/play_doom.png)
-
 ### Less apps ?, I have made a configuration to run the apps of a proot distro in termux native desktop. An example:
 
 ```
