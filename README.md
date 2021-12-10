@@ -129,14 +129,7 @@ firefox
 ⚠ Solo en termux 
 
 ```bash
-cd $HOME
-pkg update && pkg upgrade 
-pkg install git wget python
-pip install colorama
-git clone --depth 1 https://github.com/Yisus7u7/termux-desktop-xfce
-cd termux-desktop-xfce
-chmod +x *.sh *.py
-./install-desktop-xfce.py
+curl -sLf https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/boostrap.sh | bash
 ```
 
 > luego de eso solo espere, el script hará su trabajo 
@@ -146,10 +139,6 @@ chmod +x *.sh *.py
 usa el comando :
 
 ```
-startdesktop 
-
-O este:
-
 vncserver -listen tcp 
 ```
 

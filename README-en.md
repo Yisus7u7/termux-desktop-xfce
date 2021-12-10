@@ -95,27 +95,15 @@ firefox
 ! Only in termux
 
 ```bash
-cd $HOME
-pkg update && pkg upgrade 
-pkg install git wget python
-pip install colorama
-git clone --depth 1 https://github.com/Yisus7u7/termux-desktop-xfce
-cd termux-desktop-xfce
-chmod +x *.sh *.py
-./install-desktop-xfce.py
+curl -sLf https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/boostrap.sh | bash
 ```
 
 After that just have a cup of coffee... the script will do its job 
 
 # Usage
+Run:
 
-```
-startdesktop 
-```
-
-Or 
-
-```
+```bash
 vncserver -listen tcp 
 ```
 
