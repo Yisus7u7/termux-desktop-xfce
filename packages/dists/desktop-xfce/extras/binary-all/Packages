@@ -1,3 +1,21 @@
+Package: breeze-cursor-theme
+Version: 4:5.20.5-4
+Architecture: all
+Maintainer: @Yisus7u7 <jesus5@gmail.com>
+Installed-Size: 5557
+Depends: gtk3, qt5-qtbase
+Homepage: https://invent.kde.org/?p=breeze.git/breeze
+Description: Default Plasma cursor theme
+ This is the default cursor theme for the KDE Plasma 5 desktop.
+ .
+ This package is part of the Breeze theme module.
+Filename: dists/desktop-xfce/extras/binary-all/breeze-cursor-theme_5.20.5-4_all.deb
+Size: 268836
+MD5Sum: ef27cfa81eee0bcc2ef647d9d04624e5
+SHA1: 44a7a0476c4795b24c6ac66fd902604529a9201e
+SHA256: 95df2a01230f31a0a3d10fdda8a99349143f7aca294536a547a068727effa4fb
+SHA512: c0229daf711c9d5222a713da7aaa025c2d4a319b7a91c76fda988168c226c1d9e072439879ab9a98f05d1f52a09cd6ba5a9a0af9cfa7627db6e9791442a5a6e7
+
 Package: termux-desktop-xfce
 Version: 5.0.3
 Architecture: all
