@@ -26,7 +26,7 @@ rm $PREFIX/etc/apt/sources.list.d/termux-desktop-xfce.list
 wget -P $PREFIX/etc/apt/sources.list.d https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/gh-pages/termux-desktop-xfce.list
 apt install -y x11-repo 
 apt update
-apt install -y xfce4 tigervnc xfce4-goodies termux-desktop-xfce breeze-cursor-theme kvantum ttf-microsoft-cascadia audacious leafpad
+apt install -y xfce4 tigervnc xfce4-goodies termux-desktop-xfce breeze-cursor-theme kvantum ttf-microsoft-cascadia audacious leafpad pavucontrol-qt hexchat geany
 apt install -y otter-browser
 
 echo "boostrap data..."
