@@ -58,6 +58,8 @@ wget https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/welcome
 wget https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/welcome/README.txt
 cd $HOME
 
+mv $PREFIX/share/kvantum/* $PREFIX/share/Kvantum
+
 echo -e """\e[1;32menjoy!!
 To start the vnc server, use the command: vncserver to stop it, use the command: vncserver -kill: 1 Replace the: 1 with the port on which the vnc service is running\e[1m"""
 
