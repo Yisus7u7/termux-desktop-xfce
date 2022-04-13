@@ -35,13 +35,15 @@ mkdir $HOME/.backup
 mv $HOME/.config $HOME/.backup
 mv $HOME/.vnc $HOME/.backup
 cd $HOME
+
+echo "Downloading wallpapers and xstartup..."
+wget https://github.com/Yisus7u7/termux-desktop-lxqt/releases/download/data/termux_desktop_lxqt_data.tar.xz
+tar -xvf termux_desktop_lxqt_data.tar.xz
+rm termux_desktop_lxqt_data.tar.xz
+rm .vnc/xstartup
 wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/desktop-5.0.3/data.tar.xz
 tar -xvf data.tar.xz
 rm data.tar.xz
-
-echo "Downloading wallpapers..."
-wget https://github.com/Yisus7u7/termux-desktop-lxqt/releases/download/data/termux_desktop_lxqt_data.tar.xz
-tar -xvf termux_desktop_lxqt_data.tar.xz')
 
 echo "setup folders..."
 
