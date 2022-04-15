@@ -53,8 +53,8 @@ clear
 
 echo -e '\e[1;36m FIX: XStartup\e[1m'
 sleep 3
-wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/desktop-5.0.3/data.tar.xz
-tar -xvf data.tar.xz
+wget https://github.com/Yisus7u7/termux-desktop-lxqt/releases/download/data/termux_desktop_lxqt_data.tar.xz
+tar -xvf termux_desktop_lxqt_data.tar.xz
 rm data.tar.xz
 sleep 3
 clear
