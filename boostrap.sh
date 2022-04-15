@@ -39,7 +39,7 @@ clear
 
 echo -e '\e[1;36m Installing applications you might use...\e[1m'
 
-apt install -y otter-browser geany hexchat cantata audacious-plugins audacious leafpad pavucontrol-qt kvantum polybar xfce4-theme-manager netsurf lynx
+apt install -y otter-browser geany hexchat cantata audacious-plugins audacious leafpad pavucontrol-qt kvantum polybar xfce-theme-manager netsurf lynx
 sleep 3
 
 clear
