@@ -1,6 +1,9 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
+Para obtener más información, una amplia selección de opciones, echa un vistazo [este repositorio de GitHub](https://github.com/c4scnevee/termux-desktop)
+
+
 README in English:
 
 https://github.com/Yisus7u7/termux-desktop-xfce/blob/main/README-en.md
