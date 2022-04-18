@@ -25,6 +25,9 @@ https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 También puedes usar xserver-xsdl, bvnc pro y 
 kali-Kex
 
+También puede usar Termux:x11 con Wayland para la visualización en tiempo real, pero llevará tiempo configurarlo.
+
+
 > Nota : el termux de la play store es desmantenido 
 y no recibe actualizaciones, no lo uses. tiene 
 bugs, usa el del enlace que deje arriba 
@@ -48,7 +51,7 @@ Haciendo como resultado un escritorio altamente
 
 # capturas de pantalla :
 
-> versión actual : 5.0.3 update
+> versión actual : 5.0.3 parche 20221804
 
 ![escritorio](./fotos/desktop.png)
 ![escritorio](./fotos/desktop2.png)
