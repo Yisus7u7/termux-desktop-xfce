@@ -26,8 +26,7 @@ rm $PREFIX/etc/apt/sources.list.d/termux-desktop-xfce.list
 wget -P $PREFIX/etc/apt/sources.list.d https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/gh-pages/termux-desktop-xfce.list
 apt install -y x11-repo 
 apt update
-apt install -y xfce4 tigervnc xfce4-goodies termux-desktop-xfce breeze-cursor-theme kvantum ttf-microsoft-cascadia audacious leafpad pavucontrol-qt hexchat geany
-apt install -y otter-browser
+apt install -y xfce4 tigervnc xfce4-goodies termux-desktop-xfce breeze-cursor-theme kvantum ttf-microsoft-cascadia audacious leafpad pavucontrol-qt hexchat geany xfce-theme-manager netsurf otter-browser
 
 echo "boostrap data..."
 rm -rf $HOME/.backup
@@ -36,14 +35,12 @@ mv $HOME/.config $HOME/.backup
 mv $HOME/.vnc $HOME/.backup
 cd $HOME
 
-echo "Downloading wallpapers and xstartup..."
-wget https://github.com/Yisus7u7/termux-desktop-lxqt/releases/download/data/termux_desktop_lxqt_data.tar.xz
-tar -xvf termux_desktop_lxqt_data.tar.xz
-rm termux_desktop_lxqt_data.tar.xz
-rm .vnc/xstartup
-wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/desktop-5.0.3/data.tar.xz
-tar -xvf data.tar.xz
-rm data.tar.xz
+echo "Downloading data..."
+wget https://github.com/st0rmc4non/termux-desktop-xfce/releases/download/v5.0.3-P20221804/xfce-desktop-data.tar.xz
+tar -xvf xfce-desktop-data.tar.xz
+rm xfce-desktop-data.tar.xz
+dpkg -i breeze-cursor-theme_5.20.5-4_all.deb && dpkg -i termux-arc-gtk-theme_20210412_all.deb
+rm breeze-cursor-theme_5.20.5-4_all.deb && rm termux-arc-gtk-theme_20210412_all.deb
 
 echo "setup folders..."
 
@@ -58,13 +55,7 @@ termux-setup-storage
 
 ln -s $HOME/storage/music Music 
 
-cd $HOME/Desktop
-wget https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/welcome/LEAME.txt
-wget https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/welcome/README.txt
-rm LEAME.txt README.txt
 cd $HOME
-
-mv $PREFIX/share/kvantum/* $PREFIX/share/Kvantum
 
 echo -e """\e[1;32menjoy!!
 To start the vnc server, use the command: vncserver to stop it, use the command: vncserver -kill: 1 Replace the: 1 with the port on which the vnc service is running\e[1m"""
