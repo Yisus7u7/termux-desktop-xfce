@@ -1,6 +1,8 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
+For more choices including desktop flavors, check out [this GitHub Repository](https://github.com/c4scnevee/termux-desktop)
+
 ## Requirements
 
 - No root permission is required to make this work
