@@ -1,6 +1,20 @@
 # termux-desktop-xfce
 Set up a beautiful xfce desktop in termux 
 
+
+# Attention!
+  I'm currently working on a big update for the end of this year (or even sooner), with big improvements to the interface, themes and cool features!
+
+ ## Tasks
+  - Redesign in interface themes.
+  - Look for a lighter alternative to Papirus icons that follows the Material Design scheme
+  - add a nice welcome screen that will help the user to get started (configuration and add additional software), you can also choose which browser you want to use by default (This will give you a more user friendly experience, similar to a GNU/Linux distribution)
+  - try to pack all modifications in packages, do not modify $HOME for user convenience.
+  - And many more surprises!
+
+  Thank you for your attention, you can continue with the description of the project.
+
+  
 ## Requirements
 
 - No root permission is required to make this work
