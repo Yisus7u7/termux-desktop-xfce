@@ -1,4 +1,17 @@
 # termux-desktop-xfce
+
+# ¡Atención!
+ Actualmente estoy trabajando en una gran actualización para finales de este año (o incluso antes), ¡con grandes mejoras en la interfaz, temas y funciones geniales!
+
+## Tareas
+ - Rediseño en temas de la interfaz.
+ - Buscar una alternativa más ligera a Papirus icons que siga el esquema de Material You
+ - agregar una bonita pantalla de bienvenida que ayudará al usuario a dar sus primeros pasos (configuración y agregar software adicional), también puede elegir qué navegador desea usar por defecto (Esto le dará una experiencia más amigable, similar a una distribución GNU/Linux)
+ - intentar empaquetar todas las modificaciones en paquetes, no modifique $HOME para comodidad del usuario.
+ - ¡Y muchas sorpresas más!
+
+ Gracias por su atención, puede continuar con la descripción del proyecto.
+
 Set up a beautiful xfce desktop in termux 
 
 README in English:
