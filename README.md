@@ -5,7 +5,7 @@
 
 ## Tareas
  - Rediseño en temas de la interfaz.
- - Buscar una alternativa más ligera a Papirus icons que siga el esquema de Material You
+ - Buscar una alternativa más ligera a Papirus icons que siga el esquema de Material Desing
  - agregar una bonita pantalla de bienvenida que ayudará al usuario a dar sus primeros pasos (configuración y agregar software adicional), también puede elegir qué navegador desea usar por defecto (Esto le dará una experiencia más amigable, similar a una distribución GNU/Linux)
  - intentar empaquetar todas las modificaciones en paquetes, no modifique $HOME para comodidad del usuario.
  - ¡Y muchas sorpresas más!
