@@ -27,7 +27,7 @@ wget -P $PREFIX/etc/apt/sources.list.d https://raw.githubusercontent.com/Yisus7u
 apt install -y x11-repo 
 apt update
 apt install -y xfce4 tigervnc xfce4-goodies termux-desktop-xfce breeze-cursor-theme kvantum ttf-microsoft-cascadia audacious leafpad pavucontrol-qt hexchat geany synaptic 
-apt install -y epiphany
+apt install -y firefox
 
 echo "boostrap data..."
 rm -rf $HOME/.backup
